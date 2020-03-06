@@ -2,8 +2,8 @@ const themeConfig = require('./configs/theme/')
 
 module.exports = {
   base: '/vic/',
-  title: 'vue-next analysis',
-  description: 'vue-next analysis',
+  title: 'vic 空间',
+  description: 'vic 空间',
   markdown: {
     lineNumbers: true // 展示行号
   },
