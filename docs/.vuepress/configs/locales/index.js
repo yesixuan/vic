@@ -17,17 +17,6 @@ module.exports = {
         buttonText: "刷新"
       }
     },
-    // 当前 locale 的 algolia docsearch 选项
-    algolia: {
-      start_urls: [{
-        "url": "https://yesixuan.github.io/vic/"
-      }],
-      apiKey: '97357e58cac743c6de62036cb152f18b',
-      indexName: 'vic'
-      // inputSelector: '### REPLACE ME ####',
-      // algoliaOptions: { 'facetFilters': ["lang:$LANG"] },
-      // debug: false // Set debug to true if you want to inspect the dropdown
-    },
     nav: nav.zh,
     sidebar: sidebar.zh
   },
@@ -40,16 +29,6 @@ module.exports = {
         message: "New content is available.",
         buttonText: "Refresh"
       }
-    },
-    algolia: {
-      start_urls: [{
-        "url": "https://yesixuan.github.io/vic/en/"
-      }],
-      apiKey: '97357e58cac743c6de62036cb152f18b',
-      indexName: 'vic'
-      // inputSelector: '### REPLACE ME ####',
-      // algoliaOptions: { 'facetFilters': ["lang:$LANG"] },
-      // debug: false // Set debug to true if you want to inspect the dropdown
     },
     nav: nav.en,
     // sidebar: sidebar.en
