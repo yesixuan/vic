@@ -27,7 +27,7 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "f0cf45f8ee07cf6c5c833caef60a1e16"
+    "revision": "a2d3fed755f37fe8888cc400b7f8def9"
   },
   {
     "url": "assets/css/0.styles.f02ec9c3.css",
@@ -58,8 +58,8 @@ self.__precacheManifest = [
     "revision": "1f5222add2c7082ee00776ff5b84f4d6"
   },
   {
-    "url": "assets/js/13.2ae0fac0.js",
-    "revision": "57e8d277dbef4852329e7f06ffff8cde"
+    "url": "assets/js/13.51f2fb66.js",
+    "revision": "1a67eb8be4e7f63cf399c0c8cffef5c1"
   },
   {
     "url": "assets/js/14.4c5ab671.js",
@@ -98,32 +98,32 @@ self.__precacheManifest = [
     "revision": "6b94b4bc9efe53e1e50592a1b59c9227"
   },
   {
-    "url": "assets/js/app.5594a682.js",
-    "revision": "f76cd8aa7b6be0d49e83496a629e2e9f"
+    "url": "assets/js/app.0dcdd3e2.js",
+    "revision": "5e13135b236e55d3e020d37405f3cb2e"
   },
   {
     "url": "categories/index.html",
-    "revision": "30472daa8d8998ae469505628d44ef7c"
+    "revision": "b7bc09990cf4596beddf63b61c38febc"
   },
   {
     "url": "demo.html",
-    "revision": "1f6a20cfe3095a6fc3bb2179812195a6"
+    "revision": "5b37693eb558ed6dd128e2f83c3aa70a"
   },
   {
     "url": "index.html",
-    "revision": "66e6725cc9da9ca0950ec61ac599412a"
+    "revision": "46672bbcd4ec04ac10207767999a1c2b"
   },
   {
     "url": "philosophy/origin/history-of-philosophy.html",
-    "revision": "df44eafda0012494108ef8edb57289b8"
+    "revision": "cd992539507c1b5e4519375040fda20f"
   },
   {
     "url": "philosophy/origin/index.html",
-    "revision": "0a0801bf4ffbf229c4af4470797ae74e"
+    "revision": "e980981a217477de3022ca770eee3cbb"
   },
   {
     "url": "tag/index.html",
-    "revision": "ef8bcf95d73b592130ffb3ef15030905"
+    "revision": "b1bcfd6b45bd948f5795aa23700dd6cc"
   },
   {
     "url": "time.jpg",
@@ -131,7 +131,7 @@ self.__precacheManifest = [
   },
   {
     "url": "timeline/index.html",
-    "revision": "398e4d0a153f76783ffaa30b3a58419f"
+    "revision": "352877792990aa3a5587bc464d62efff"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
