@@ -28,7 +28,7 @@ module.exports = {
   vssueConfig: {
     platform: 'github',
     owner: 'yesixuan',
-    repo: 'vue-code',
+    repo: 'vic',
     clientId: '43a8e5d8ab5db4be4c93',
     clientSecret: 'c1bb3d31de3b99540a2705b081c073dfc4191979'
   },
