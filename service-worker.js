@@ -27,11 +27,11 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "a2d3fed755f37fe8888cc400b7f8def9"
+    "revision": "2899d3118fb567c43d8fce348a25af65"
   },
   {
-    "url": "assets/css/0.styles.f02ec9c3.css",
-    "revision": "8cde49ff1398a5cc41a9c3dc0c828a50"
+    "url": "assets/css/0.styles.34c14dd6.css",
+    "revision": "f9ec3ce60c1afa07bc47d556ad7c5b3d"
   },
   {
     "url": "assets/img/create.e25f75be.png",
@@ -58,8 +58,8 @@ self.__precacheManifest = [
     "revision": "1f5222add2c7082ee00776ff5b84f4d6"
   },
   {
-    "url": "assets/js/13.51f2fb66.js",
-    "revision": "1a67eb8be4e7f63cf399c0c8cffef5c1"
+    "url": "assets/js/13.b6e734b3.js",
+    "revision": "06d01a034bcdc8101a62e7653f4f7b2b"
   },
   {
     "url": "assets/js/14.4c5ab671.js",
@@ -98,32 +98,32 @@ self.__precacheManifest = [
     "revision": "6b94b4bc9efe53e1e50592a1b59c9227"
   },
   {
-    "url": "assets/js/app.0dcdd3e2.js",
-    "revision": "5e13135b236e55d3e020d37405f3cb2e"
+    "url": "assets/js/app.0eab283f.js",
+    "revision": "fd6ccb905be6761c74730d76f42a94ed"
   },
   {
     "url": "categories/index.html",
-    "revision": "b7bc09990cf4596beddf63b61c38febc"
+    "revision": "3000284de0e0c2ed7d4877264a8a3261"
   },
   {
     "url": "demo.html",
-    "revision": "5b37693eb558ed6dd128e2f83c3aa70a"
+    "revision": "83a86a9f29b7d01fb97f8c6df6397886"
   },
   {
     "url": "index.html",
-    "revision": "46672bbcd4ec04ac10207767999a1c2b"
+    "revision": "5d1f33e04d85c5f93fb3cc653c64e8ec"
   },
   {
     "url": "philosophy/origin/history-of-philosophy.html",
-    "revision": "cd992539507c1b5e4519375040fda20f"
+    "revision": "c75a60047f7f4f985815f251879f1652"
   },
   {
     "url": "philosophy/origin/index.html",
-    "revision": "e980981a217477de3022ca770eee3cbb"
+    "revision": "9fcdbf004cc362cfac00cc99f9cd736b"
   },
   {
     "url": "tag/index.html",
-    "revision": "b1bcfd6b45bd948f5795aa23700dd6cc"
+    "revision": "a281fc099d7797dc2f153b0c7442fc3d"
   },
   {
     "url": "time.jpg",
@@ -131,7 +131,7 @@ self.__precacheManifest = [
   },
   {
     "url": "timeline/index.html",
-    "revision": "352877792990aa3a5587bc464d62efff"
+    "revision": "c3e4ed4f6688bd68e98b9ed223cfc092"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
