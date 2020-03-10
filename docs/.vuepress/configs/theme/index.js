@@ -1,7 +1,8 @@
 const themeReco = require('./themeReco.js')
 
 const sidebar = require('../sidebar/')
-const locales = require('../locales/')
+// const locales = require('../locales/')
+const nav = require('../nav')
 
 module.exports = Object.assign({}, themeReco, {
   head: [
@@ -13,5 +14,6 @@ module.exports = Object.assign({}, themeReco, {
     ['meta', { name: 'theme-color', content: '#3eaf7c' }],
   ],
   sidebar,
-  locales
+  // locales,
+  nav,
 })
