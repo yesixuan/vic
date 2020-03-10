@@ -64,5 +64,18 @@ module.exports = {
         buttonText: "刷新"
       }
     }],
+    ['vuepress-plugin-container', {
+      type: 'right',
+      defaultTitle: '',
+    },],
+    ['container', {
+      type: 'myDetails',
+      before: info => `<details class="custom-block details">${info ? `<summary>${info}</summary>` : ''}\n`,
+      after: () => '</details>\n',
+      defaultTitle: {
+        '/': 'See More',
+        '/zh/': '更多'
+      }
+    }]
   ],
 };
