@@ -27,11 +27,11 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "2899d3118fb567c43d8fce348a25af65"
+    "revision": "1e0ab3925a055bfd5c1d39a2cf3c7213"
   },
   {
-    "url": "assets/css/0.styles.34c14dd6.css",
-    "revision": "f9ec3ce60c1afa07bc47d556ad7c5b3d"
+    "url": "assets/css/0.styles.b4a7f7fd.css",
+    "revision": "6b058989186c41b83cbdcec82dd57e4c"
   },
   {
     "url": "assets/img/create.e25f75be.png",
@@ -46,8 +46,8 @@ self.__precacheManifest = [
     "revision": "38336a220a40fb6078d8376456c6f150"
   },
   {
-    "url": "assets/js/10.9a4aa09b.js",
-    "revision": "375e8504d896fa8b0cdd0c84f652a9cc"
+    "url": "assets/js/10.5cdf1ed6.js",
+    "revision": "1fa911f1a5ca12d490dabd2273e802dc"
   },
   {
     "url": "assets/js/11.b699e366.js",
@@ -66,8 +66,12 @@ self.__precacheManifest = [
     "revision": "37ad5c2c51d05169432b2da3edf9793f"
   },
   {
-    "url": "assets/js/15.8e48ba49.js",
-    "revision": "db97fb93c4e40d7cc54269d227241c68"
+    "url": "assets/js/15.8fe1eb09.js",
+    "revision": "c65a8e9cd9f8ca5819ed805e4bc7aad5"
+  },
+  {
+    "url": "assets/js/16.172229ec.js",
+    "revision": "f6dc647d77adf6e20eee6a0d6ec985b1"
   },
   {
     "url": "assets/js/3.aabc4740.js",
@@ -98,32 +102,36 @@ self.__precacheManifest = [
     "revision": "6b94b4bc9efe53e1e50592a1b59c9227"
   },
   {
-    "url": "assets/js/app.0eab283f.js",
-    "revision": "fd6ccb905be6761c74730d76f42a94ed"
+    "url": "assets/js/app.2d559361.js",
+    "revision": "a1f4baa12324b276bc3d93dd14e671b2"
   },
   {
     "url": "categories/index.html",
-    "revision": "3000284de0e0c2ed7d4877264a8a3261"
+    "revision": "69aad960380ed721ff685612ea44dd1f"
   },
   {
     "url": "demo.html",
-    "revision": "83a86a9f29b7d01fb97f8c6df6397886"
+    "revision": "4f574a4618f11699fcdb64c73121e404"
   },
   {
     "url": "index.html",
-    "revision": "5d1f33e04d85c5f93fb3cc653c64e8ec"
+    "revision": "9c2d53eeceae9c225bf6c0530fd2f976"
   },
   {
     "url": "philosophy/origin/history-of-philosophy.html",
-    "revision": "c75a60047f7f4f985815f251879f1652"
+    "revision": "beeb06f3b825db31c86e340299984d37"
   },
   {
     "url": "philosophy/origin/index.html",
-    "revision": "9fcdbf004cc362cfac00cc99f9cd736b"
+    "revision": "d23bcb73665e8f008cdf83cfdf95fcdb"
+  },
+  {
+    "url": "philosophy/origin/origin-of-philosophy.html",
+    "revision": "fc6e107a6dc3bea0e75bf0e2dd834e9a"
   },
   {
     "url": "tag/index.html",
-    "revision": "a281fc099d7797dc2f153b0c7442fc3d"
+    "revision": "00921250f8a64356fa8d99856f568411"
   },
   {
     "url": "time.jpg",
@@ -131,7 +139,7 @@ self.__precacheManifest = [
   },
   {
     "url": "timeline/index.html",
-    "revision": "c3e4ed4f6688bd68e98b9ed223cfc092"
+    "revision": "59f20f7d7154f4e7eb728f8aa0f60a5b"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
