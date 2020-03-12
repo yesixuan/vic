@@ -27,7 +27,7 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "1e0ab3925a055bfd5c1d39a2cf3c7213"
+    "revision": "866679f02bf47aeba2961705b8363403"
   },
   {
     "url": "assets/css/0.styles.b4a7f7fd.css",
@@ -42,12 +42,12 @@ self.__precacheManifest = [
     "revision": "7b267d7ce30257a197aeeb29f365065b"
   },
   {
-    "url": "assets/js/1.9ac3eaf6.js",
-    "revision": "38336a220a40fb6078d8376456c6f150"
+    "url": "assets/js/1.3339473f.js",
+    "revision": "bcf40f73da25c3b873e020f661e1836a"
   },
   {
-    "url": "assets/js/10.5cdf1ed6.js",
-    "revision": "1fa911f1a5ca12d490dabd2273e802dc"
+    "url": "assets/js/10.f41c5414.js",
+    "revision": "9471d872b7c1f34421dfd462a12f01ba"
   },
   {
     "url": "assets/js/11.b699e366.js",
@@ -66,12 +66,16 @@ self.__precacheManifest = [
     "revision": "37ad5c2c51d05169432b2da3edf9793f"
   },
   {
-    "url": "assets/js/15.8fe1eb09.js",
-    "revision": "c65a8e9cd9f8ca5819ed805e4bc7aad5"
+    "url": "assets/js/15.3ce2da66.js",
+    "revision": "8df4641df72e53c2fcbe9703fbdda1e7"
   },
   {
-    "url": "assets/js/16.172229ec.js",
-    "revision": "f6dc647d77adf6e20eee6a0d6ec985b1"
+    "url": "assets/js/16.f175eb77.js",
+    "revision": "0cb8f28b913c3a37885ac9d5cc186552"
+  },
+  {
+    "url": "assets/js/17.48342fb8.js",
+    "revision": "88053ed7584730ca039805d7299f8b6f"
   },
   {
     "url": "assets/js/3.aabc4740.js",
@@ -98,40 +102,44 @@ self.__precacheManifest = [
     "revision": "968e0cdc5a7d08f4281f9053d3a87e5b"
   },
   {
-    "url": "assets/js/9.8a3b444c.js",
-    "revision": "6b94b4bc9efe53e1e50592a1b59c9227"
+    "url": "assets/js/9.d56434b0.js",
+    "revision": "17a582889f7a3777f1d22166b1ccd6be"
   },
   {
-    "url": "assets/js/app.2d559361.js",
-    "revision": "a1f4baa12324b276bc3d93dd14e671b2"
+    "url": "assets/js/app.d3fec421.js",
+    "revision": "49b9aca667cec014ccfb0f14de396d8c"
   },
   {
     "url": "categories/index.html",
-    "revision": "69aad960380ed721ff685612ea44dd1f"
+    "revision": "644fcfaafc9419820d3e54f9391463a2"
   },
   {
     "url": "demo.html",
-    "revision": "4f574a4618f11699fcdb64c73121e404"
+    "revision": "777e500bec7b5fe287909e0c29a712cb"
   },
   {
     "url": "index.html",
-    "revision": "9c2d53eeceae9c225bf6c0530fd2f976"
+    "revision": "c4f11dc82a9b742820de9f8c761a1132"
   },
   {
     "url": "philosophy/origin/history-of-philosophy.html",
-    "revision": "beeb06f3b825db31c86e340299984d37"
+    "revision": "33df177a984a76854857ad6cbdf0d7ff"
   },
   {
     "url": "philosophy/origin/index.html",
-    "revision": "d23bcb73665e8f008cdf83cfdf95fcdb"
+    "revision": "a802afaeacaaaeaae6d2a787eace2b65"
+  },
+  {
+    "url": "philosophy/origin/materialism-and-immaterialism.html",
+    "revision": "e3c8a07c6ad3c345824e0d7b152b5c97"
   },
   {
     "url": "philosophy/origin/origin-of-philosophy.html",
-    "revision": "fc6e107a6dc3bea0e75bf0e2dd834e9a"
+    "revision": "9fb3194765c496072b68a9bd114d5fb2"
   },
   {
     "url": "tag/index.html",
-    "revision": "00921250f8a64356fa8d99856f568411"
+    "revision": "045ec4bb9b559facdf34f5b38618a198"
   },
   {
     "url": "time.jpg",
@@ -139,7 +147,7 @@ self.__precacheManifest = [
   },
   {
     "url": "timeline/index.html",
-    "revision": "59f20f7d7154f4e7eb728f8aa0f60a5b"
+    "revision": "99b3b3aaa64a63ea58b8046dd0f8f75d"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
