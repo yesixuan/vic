@@ -29,3 +29,13 @@ jobs:
           ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
           BRANCH: gh-pages
           FOLDER: docs/.vuepress/dist
+      - name: repo-sync
+        uses: wei/git-sync@v1
+        env:
+          SOURCE_REPO: "git@github.com:yesixuan/vic.git"
+          SOURCE_BRANCH: "refs/remotes/source/*"
+          DESTINATION_REPO: "git@gitee.com:yesixuan/vic.git"
+          DESTINATION_BRANCH: "refs/heads/*"
+          SSH_PRIVATE_KEY: ${{ secrets.SSH_PRIVATE_KEY }}
+        with:
+          args: $SOURCE_REPO $SOURCE_BRANCH $DESTINATION_REPO $DESTINATION_BRANCH

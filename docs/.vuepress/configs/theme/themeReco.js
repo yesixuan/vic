@@ -35,7 +35,7 @@ module.exports = {
   // 假定是 GitHub. 同时也可以是一个完整的 GitLab URL
   repo: 'https://www.github.com/yesixuan/vic',
   // // 假如文档不是放在仓库的根目录下：
-  docsDir: 'docs',
+  docsDir: 'gh-pages',
   // // 假如文档放在一个特定的分支下：
   docsBranch: 'master',
   // // 默认是 false, 设置为 true 来启用
