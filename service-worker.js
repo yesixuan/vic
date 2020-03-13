@@ -27,7 +27,7 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "4aa640bea3cb593c67d9ddce83dbdcd6"
+    "revision": "1a10453962fc92ea333abcfeaccc80fa"
   },
   {
     "url": "assets/css/0.styles.b4a7f7fd.css",
@@ -106,40 +106,40 @@ self.__precacheManifest = [
     "revision": "17a582889f7a3777f1d22166b1ccd6be"
   },
   {
-    "url": "assets/js/app.0933a4f4.js",
-    "revision": "35609aba86dbba943ba65b7d3c617288"
+    "url": "assets/js/app.aadf8901.js",
+    "revision": "71be85c4fbe0cfe3e415e29e1b00ec85"
   },
   {
     "url": "categories/index.html",
-    "revision": "990dffaf04a64eee6ff1e731b82afebc"
+    "revision": "c435faea1bdc98c443b9f23bb501ac2d"
   },
   {
     "url": "demo.html",
-    "revision": "adb735168623e5c015ad8095a88ce3b5"
+    "revision": "9bd63d701b84bf395fd6c191eb320346"
   },
   {
     "url": "index.html",
-    "revision": "b20790d420205db792f1c7dfb10fd888"
+    "revision": "26bd7250c06450a719dad6ce87949d9b"
   },
   {
     "url": "philosophy/origin/history-of-philosophy.html",
-    "revision": "f6ba2ebc33fe408c07b9caeb3f9bb403"
+    "revision": "077b84738d32dafddbd5eb7b0d7cf94c"
   },
   {
     "url": "philosophy/origin/index.html",
-    "revision": "e0157a83eb9b94a1ed73b904d44c1041"
+    "revision": "be7d75ea2ce1e39cd4e94480a3cf0f05"
   },
   {
     "url": "philosophy/origin/materialism-and-immaterialism.html",
-    "revision": "ee8ebae3a51a34390953afeaaeab4da9"
+    "revision": "489b245dc4f30afec6952f4a4995ae41"
   },
   {
     "url": "philosophy/origin/origin-of-philosophy.html",
-    "revision": "836fe59dda7db145ceec64a4a8c0c4e4"
+    "revision": "176eb58c2c65ccff7725ca0793e3e3a0"
   },
   {
     "url": "tag/index.html",
-    "revision": "3757fdc28962a3ba7f4f30d81a24d3cb"
+    "revision": "547e4d8cdc99a0f70158ea1eb20588b2"
   },
   {
     "url": "time.jpg",
@@ -147,7 +147,7 @@ self.__precacheManifest = [
   },
   {
     "url": "timeline/index.html",
-    "revision": "b55b84d4f0f317f6b9138ff7c218cc25"
+    "revision": "425a21d9a128171ba36b5938cffb180b"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
