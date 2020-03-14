@@ -27,11 +27,11 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "12b3e27506deed600cd82317540aaeff"
+    "revision": "664a15db66fe44ccc426320850fab227"
   },
   {
-    "url": "assets/css/0.styles.b4a7f7fd.css",
-    "revision": "6b058989186c41b83cbdcec82dd57e4c"
+    "url": "assets/css/0.styles.b3d591c8.css",
+    "revision": "670e9db5f014531f687980a551edfb3f"
   },
   {
     "url": "assets/img/create.e25f75be.png",
@@ -46,8 +46,8 @@ self.__precacheManifest = [
     "revision": "bcf40f73da25c3b873e020f661e1836a"
   },
   {
-    "url": "assets/js/10.f41c5414.js",
-    "revision": "9471d872b7c1f34421dfd462a12f01ba"
+    "url": "assets/js/10.c8238790.js",
+    "revision": "77974f287145e675518dfe71fbcffadf"
   },
   {
     "url": "assets/js/11.b699e366.js",
@@ -58,24 +58,28 @@ self.__precacheManifest = [
     "revision": "4a3cd69803fa3c97affcbc0b44400fc0"
   },
   {
-    "url": "assets/js/13.b6e734b3.js",
-    "revision": "06d01a034bcdc8101a62e7653f4f7b2b"
+    "url": "assets/js/13.cab1af72.js",
+    "revision": "90ef4eedf66b839269f7f2b7701c3ea5"
   },
   {
-    "url": "assets/js/14.4c5ab671.js",
-    "revision": "37ad5c2c51d05169432b2da3edf9793f"
+    "url": "assets/js/14.8ea462dc.js",
+    "revision": "7e41d18e2dbce06fe700f0045891978c"
   },
   {
-    "url": "assets/js/15.5fec7105.js",
-    "revision": "0fbf47327e1d9577002a6a51d61c0c05"
+    "url": "assets/js/15.69f984cb.js",
+    "revision": "75fcee5fbefccc04bf67ab88d9c80db4"
   },
   {
-    "url": "assets/js/16.f175eb77.js",
-    "revision": "0cb8f28b913c3a37885ac9d5cc186552"
+    "url": "assets/js/16.48897d46.js",
+    "revision": "c72156c2b44ad19ea49a5123c6e17812"
   },
   {
-    "url": "assets/js/17.48342fb8.js",
-    "revision": "88053ed7584730ca039805d7299f8b6f"
+    "url": "assets/js/17.2392ebd5.js",
+    "revision": "996c43378e9029b4db79ea62cadc97b1"
+  },
+  {
+    "url": "assets/js/18.ca3a3875.js",
+    "revision": "918c9cd2a88b36a7f643f0a081281e17"
   },
   {
     "url": "assets/js/3.aabc4740.js",
@@ -106,40 +110,44 @@ self.__precacheManifest = [
     "revision": "17a582889f7a3777f1d22166b1ccd6be"
   },
   {
-    "url": "assets/js/app.5b57358f.js",
-    "revision": "a0f1af71d372ef165ebe5dea237e2dbb"
+    "url": "assets/js/app.4099337e.js",
+    "revision": "941497f6b4a83f812ecc965dbe2ec59f"
   },
   {
     "url": "categories/index.html",
-    "revision": "8a16946d482d985cc63057c7185bb4c4"
+    "revision": "ab4040b300ffefe1683f9f6f76585560"
   },
   {
     "url": "demo.html",
-    "revision": "9b6e232bb4f58b5241e774e33b038b8b"
+    "revision": "72745529ffb66607b83937db0b5ea12c"
   },
   {
     "url": "index.html",
-    "revision": "6cccf59be49ff8327bec576e6b95d8a7"
+    "revision": "1dd26074044d55595041534e93326504"
+  },
+  {
+    "url": "philosophy/origin/atomism&sophists.html",
+    "revision": "858246e7d932e61243febe130f011a98"
   },
   {
     "url": "philosophy/origin/history-of-philosophy.html",
-    "revision": "7c7ac19e5a2d7852055dace7d97f4498"
+    "revision": "8a22623e047361a09916b2d512246308"
   },
   {
     "url": "philosophy/origin/index.html",
-    "revision": "625b9e20134657ba3e1dc9d7cceb308b"
+    "revision": "c53e012de7debdac3f841146ad6eacbf"
   },
   {
     "url": "philosophy/origin/materialism-and-immaterialism.html",
-    "revision": "5ffacc78810a3dd93fae758283cdcd0f"
+    "revision": "385eade53fb05c59f48c1b9203c58bef"
   },
   {
     "url": "philosophy/origin/origin-of-philosophy.html",
-    "revision": "7dcf43d2fe3a9ccfbc9c9f1c9597adb7"
+    "revision": "5f45664ec4f37506833fad0942d738f2"
   },
   {
     "url": "tag/index.html",
-    "revision": "8a1e5ea2d2c37353de39294fb1985aae"
+    "revision": "814b155aa6d2d977740ba774a74d0ed6"
   },
   {
     "url": "time.jpg",
@@ -147,7 +155,7 @@ self.__precacheManifest = [
   },
   {
     "url": "timeline/index.html",
-    "revision": "1688a4fab02dab930ef182841a5c740e"
+    "revision": "e7a9a04a39b0e33c2761795628753f9f"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
