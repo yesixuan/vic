@@ -27,7 +27,7 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "664a15db66fe44ccc426320850fab227"
+    "revision": "03cd36bc6f1457c18d48590dedf9f18d"
   },
   {
     "url": "assets/css/0.styles.b3d591c8.css",
@@ -110,44 +110,44 @@ self.__precacheManifest = [
     "revision": "17a582889f7a3777f1d22166b1ccd6be"
   },
   {
-    "url": "assets/js/app.4099337e.js",
-    "revision": "941497f6b4a83f812ecc965dbe2ec59f"
+    "url": "assets/js/app.7d2ed65b.js",
+    "revision": "8318a272835e7741e59329a665b6aa7d"
   },
   {
     "url": "categories/index.html",
-    "revision": "ab4040b300ffefe1683f9f6f76585560"
+    "revision": "02fb7107da7dab16b0dbd15465232fea"
   },
   {
     "url": "demo.html",
-    "revision": "72745529ffb66607b83937db0b5ea12c"
+    "revision": "3e38778620153c968dbf208200c079ca"
   },
   {
     "url": "index.html",
-    "revision": "1dd26074044d55595041534e93326504"
+    "revision": "6dc93382e36a5a7e4067d4e8e81a3722"
   },
   {
     "url": "philosophy/origin/atomism&sophists.html",
-    "revision": "858246e7d932e61243febe130f011a98"
+    "revision": "2165f3df1f87c8291b85f678dd89bdb5"
   },
   {
     "url": "philosophy/origin/history-of-philosophy.html",
-    "revision": "8a22623e047361a09916b2d512246308"
+    "revision": "849bba25df9b272fd4962899398a5e60"
   },
   {
     "url": "philosophy/origin/index.html",
-    "revision": "c53e012de7debdac3f841146ad6eacbf"
+    "revision": "8ca41d7bf0d2f620aa6b240154c92ab6"
   },
   {
     "url": "philosophy/origin/materialism-and-immaterialism.html",
-    "revision": "385eade53fb05c59f48c1b9203c58bef"
+    "revision": "f9e1b03df636b4a3e15d9b6e5ddc71bb"
   },
   {
     "url": "philosophy/origin/origin-of-philosophy.html",
-    "revision": "5f45664ec4f37506833fad0942d738f2"
+    "revision": "3e7ed5e119e9f79902c10c7b9674525b"
   },
   {
     "url": "tag/index.html",
-    "revision": "814b155aa6d2d977740ba774a74d0ed6"
+    "revision": "cd57b72b172d01b11663530c7cb2f295"
   },
   {
     "url": "time.jpg",
@@ -155,7 +155,7 @@ self.__precacheManifest = [
   },
   {
     "url": "timeline/index.html",
-    "revision": "e7a9a04a39b0e33c2761795628753f9f"
+    "revision": "e62bdf6b82e5f8b22b44446bfff78fca"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
