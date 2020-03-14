@@ -4,5 +4,6 @@ module.exports = {
     'history-of-philosophy',
     'origin-of-philosophy',
     'materialism-and-immaterialism',
+    'atomism&sophists',
   ],
 }
