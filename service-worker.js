@@ -27,7 +27,7 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "017fb90397ccfc75d5e45114ec59e62a"
+    "revision": "12b3e27506deed600cd82317540aaeff"
   },
   {
     "url": "assets/css/0.styles.b4a7f7fd.css",
@@ -54,8 +54,8 @@ self.__precacheManifest = [
     "revision": "bc09181d400931e9f220ddc45d640c25"
   },
   {
-    "url": "assets/js/12.dd78eff3.js",
-    "revision": "1f5222add2c7082ee00776ff5b84f4d6"
+    "url": "assets/js/12.70d7be1f.js",
+    "revision": "4a3cd69803fa3c97affcbc0b44400fc0"
   },
   {
     "url": "assets/js/13.b6e734b3.js",
@@ -106,40 +106,40 @@ self.__precacheManifest = [
     "revision": "17a582889f7a3777f1d22166b1ccd6be"
   },
   {
-    "url": "assets/js/app.97767ff5.js",
-    "revision": "2435c68a31c85470ed2a0b8c4692b1fc"
+    "url": "assets/js/app.5b57358f.js",
+    "revision": "a0f1af71d372ef165ebe5dea237e2dbb"
   },
   {
     "url": "categories/index.html",
-    "revision": "f9a3cae5437802af2c62b81edb75f980"
+    "revision": "8a16946d482d985cc63057c7185bb4c4"
   },
   {
     "url": "demo.html",
-    "revision": "8bcd1a480ab225693e319378f2085f01"
+    "revision": "9b6e232bb4f58b5241e774e33b038b8b"
   },
   {
     "url": "index.html",
-    "revision": "f0990825f27d1b5175760d2f472aea4c"
+    "revision": "6cccf59be49ff8327bec576e6b95d8a7"
   },
   {
     "url": "philosophy/origin/history-of-philosophy.html",
-    "revision": "0a8bed123a278926bee44799720cdfa0"
+    "revision": "7c7ac19e5a2d7852055dace7d97f4498"
   },
   {
     "url": "philosophy/origin/index.html",
-    "revision": "28b201436d2b499f87f977faa409b649"
+    "revision": "625b9e20134657ba3e1dc9d7cceb308b"
   },
   {
     "url": "philosophy/origin/materialism-and-immaterialism.html",
-    "revision": "3004209fb4832409f4b0a5bdab589b5a"
+    "revision": "5ffacc78810a3dd93fae758283cdcd0f"
   },
   {
     "url": "philosophy/origin/origin-of-philosophy.html",
-    "revision": "eb3541c1108de7302a5fe6a7426daa28"
+    "revision": "7dcf43d2fe3a9ccfbc9c9f1c9597adb7"
   },
   {
     "url": "tag/index.html",
-    "revision": "7272c716f67115cac71dbf626d7eddc3"
+    "revision": "8a1e5ea2d2c37353de39294fb1985aae"
   },
   {
     "url": "time.jpg",
@@ -147,7 +147,7 @@ self.__precacheManifest = [
   },
   {
     "url": "timeline/index.html",
-    "revision": "0ed762230ee9c52d932deda734a055d2"
+    "revision": "1688a4fab02dab930ef182841a5c740e"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
