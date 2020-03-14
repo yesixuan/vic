@@ -2,6 +2,7 @@ const themeConfig = require('./configs/theme/')
 
 module.exports = {
   base: '/vic/',
+  // dest: '/dist',
   title: 'vic 空间',
   description: 'vic 空间',
   markdown: {
