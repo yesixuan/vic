@@ -27,11 +27,11 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "ff0856d5a0849aa65bf1b5944c533745"
+    "revision": "7fa3d2d200ef816511b0edc7cf0e4ea5"
   },
   {
-    "url": "assets/css/0.styles.b3d591c8.css",
-    "revision": "670e9db5f014531f687980a551edfb3f"
+    "url": "assets/css/0.styles.afd6dab4.css",
+    "revision": "66c9238dc2a417d62dddfc2ad6358103"
   },
   {
     "url": "assets/img/create.e25f75be.png",
@@ -42,12 +42,12 @@ self.__precacheManifest = [
     "revision": "7b267d7ce30257a197aeeb29f365065b"
   },
   {
-    "url": "assets/js/1.3339473f.js",
-    "revision": "bcf40f73da25c3b873e020f661e1836a"
+    "url": "assets/js/1.ddf4b769.js",
+    "revision": "3c7cbae4a9655e00686d4c66db4db147"
   },
   {
-    "url": "assets/js/10.c8238790.js",
-    "revision": "77974f287145e675518dfe71fbcffadf"
+    "url": "assets/js/10.eba46325.js",
+    "revision": "2903cc375c86e145c4aef1f3788cefb2"
   },
   {
     "url": "assets/js/11.b699e366.js",
@@ -82,72 +82,72 @@ self.__precacheManifest = [
     "revision": "918c9cd2a88b36a7f643f0a081281e17"
   },
   {
-    "url": "assets/js/3.aabc4740.js",
-    "revision": "d363958443a558b1250821e944f37a24"
+    "url": "assets/js/3.fcf3777d.js",
+    "revision": "3aede75364b53ca639e246ee09cbbd2a"
   },
   {
-    "url": "assets/js/4.9d727f8d.js",
-    "revision": "f301cc214e82fb1472e8e41e3d2fb14b"
+    "url": "assets/js/4.fe5cb08a.js",
+    "revision": "81f713ff84b73d68bbaafd3a33a8e10b"
   },
   {
-    "url": "assets/js/5.9be222de.js",
-    "revision": "7115c7e3a2cac1204ea895132ad02654"
+    "url": "assets/js/5.2ba08ba1.js",
+    "revision": "57b2ff86d5d0447446a64bc8c4c9987d"
   },
   {
-    "url": "assets/js/6.ff1a2c1e.js",
-    "revision": "435f744d817b7923bce860ed6facb32d"
+    "url": "assets/js/6.31e69a57.js",
+    "revision": "5650b86e464b784e1a511978943e7f68"
   },
   {
     "url": "assets/js/7.6f9d8a75.js",
     "revision": "e6f678e79dfbb84ef7b9f2ce52f0ee60"
   },
   {
-    "url": "assets/js/8.70ea702c.js",
-    "revision": "968e0cdc5a7d08f4281f9053d3a87e5b"
+    "url": "assets/js/8.8d2e0302.js",
+    "revision": "1e719258025ff01c18b18ca19c21d68f"
   },
   {
-    "url": "assets/js/9.d56434b0.js",
-    "revision": "17a582889f7a3777f1d22166b1ccd6be"
+    "url": "assets/js/9.37c7d139.js",
+    "revision": "3704283182d726ad4c0b7f6323ebcb2a"
   },
   {
-    "url": "assets/js/app.f0d93225.js",
-    "revision": "4fafd5776504cd0e0cf306552e3df4e6"
+    "url": "assets/js/app.f35f738b.js",
+    "revision": "ee62d7726f139d9da96e625685177c46"
   },
   {
     "url": "categories/index.html",
-    "revision": "56e8f55db5a3345d36d6c9f571557602"
+    "revision": "98c770186d3a46d21ee973fb74189567"
   },
   {
     "url": "demo.html",
-    "revision": "c77f29561c2100a83852c2767a905930"
+    "revision": "c428ac1f961a099bd686d557d73e249e"
   },
   {
     "url": "index.html",
-    "revision": "b318a68576b07cc538c04441fef3ec04"
+    "revision": "74dac1ae897f8aff5cd13ef76e1cbf8a"
   },
   {
     "url": "philosophy/origin/atomism&sophists.html",
-    "revision": "6be0be22aa9990ea96dfe8a91c144e7d"
+    "revision": "184510cdc696fe7852b2f80de9a4e7d7"
   },
   {
     "url": "philosophy/origin/history-of-philosophy.html",
-    "revision": "4f3a4fe2cc28619299c2438fd3b169b2"
+    "revision": "b66b95c8fc9443b7114acacb834ed48f"
   },
   {
     "url": "philosophy/origin/index.html",
-    "revision": "f550a20031c068affc9132d9e2c76e9f"
+    "revision": "30b72ba8f5ada355a47ce0acdb0ff983"
   },
   {
     "url": "philosophy/origin/materialism-and-immaterialism.html",
-    "revision": "18a502e8baa0967e80d479ca8ccd97e8"
+    "revision": "a6ff9ce68ceed7cde641690e9e36e7c7"
   },
   {
     "url": "philosophy/origin/origin-of-philosophy.html",
-    "revision": "fad22dd9f2d9b35edfcd895edf33dc1a"
+    "revision": "192a7f3f15836f1e79b722e139ccaf3d"
   },
   {
     "url": "tag/index.html",
-    "revision": "6e506b81653ac1b8a6677c59356fe9da"
+    "revision": "fa3b4e85eb9b85c046556586d5ac06dd"
   },
   {
     "url": "time.jpg",
@@ -155,7 +155,7 @@ self.__precacheManifest = [
   },
   {
     "url": "timeline/index.html",
-    "revision": "ff5ab085d9655b2a72f799a34691a0d9"
+    "revision": "d3b5a456e582cc6f202dc4d1080c9382"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
