@@ -19,8 +19,8 @@ module.exports = {
   startYear: '2020',
   // valine 设置
   valineConfig: {
-    appId: 'jvc9s4BkJYQNOcpsbVTPMePe-gzGzoHsz',
-    appKey: 'Js91M9DfM9vPwVaUj7xdkbxh',
+    appId: 'qzRJLh5LsoyF7JVRq2GNMKNG-gzGzoHsz',
+    appKey: 'hjy7b4GtbJRi17plRztNPVU8',
     placeholder: '填写邮箱可以收到回复提醒哦！',
     notify: true,
     recordIP: true
