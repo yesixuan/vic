@@ -27,11 +27,11 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "7fa3d2d200ef816511b0edc7cf0e4ea5"
+    "revision": "cbcd0034e80fffd866cf8c089454f235"
   },
   {
-    "url": "assets/css/0.styles.afd6dab4.css",
-    "revision": "66c9238dc2a417d62dddfc2ad6358103"
+    "url": "assets/css/0.styles.f38f898a.css",
+    "revision": "b27e063b2ac1ea996f7143f7581b2de3"
   },
   {
     "url": "assets/img/create.e25f75be.png",
@@ -42,8 +42,8 @@ self.__precacheManifest = [
     "revision": "7b267d7ce30257a197aeeb29f365065b"
   },
   {
-    "url": "assets/js/1.ddf4b769.js",
-    "revision": "3c7cbae4a9655e00686d4c66db4db147"
+    "url": "assets/js/1.eac3cb7e.js",
+    "revision": "72ad45b691816f07f974ae7150c34c0f"
   },
   {
     "url": "assets/js/10.eba46325.js",
@@ -58,8 +58,8 @@ self.__precacheManifest = [
     "revision": "4a3cd69803fa3c97affcbc0b44400fc0"
   },
   {
-    "url": "assets/js/13.b78243bd.js",
-    "revision": "f45a0a6a0588d6a88ec3f7b4736485ed"
+    "url": "assets/js/13.e3f66b04.js",
+    "revision": "a2c0a46a5ea37618ba620aaedf510657"
   },
   {
     "url": "assets/js/14.8ea462dc.js",
@@ -82,8 +82,8 @@ self.__precacheManifest = [
     "revision": "918c9cd2a88b36a7f643f0a081281e17"
   },
   {
-    "url": "assets/js/3.fcf3777d.js",
-    "revision": "3aede75364b53ca639e246ee09cbbd2a"
+    "url": "assets/js/3.7b01cd52.js",
+    "revision": "6a4ea0adfd94d4f9d5f58619c6dc2f88"
   },
   {
     "url": "assets/js/4.fe5cb08a.js",
@@ -110,44 +110,44 @@ self.__precacheManifest = [
     "revision": "3704283182d726ad4c0b7f6323ebcb2a"
   },
   {
-    "url": "assets/js/app.f35f738b.js",
-    "revision": "ee62d7726f139d9da96e625685177c46"
+    "url": "assets/js/app.a5d74495.js",
+    "revision": "556c61670235ab8327258720cdf4ce2d"
   },
   {
     "url": "categories/index.html",
-    "revision": "98c770186d3a46d21ee973fb74189567"
+    "revision": "2f66ce8edcd1cc73a334d50512e4a662"
   },
   {
     "url": "demo.html",
-    "revision": "c428ac1f961a099bd686d557d73e249e"
+    "revision": "08e6e9d68b05de96a83be4f949a00030"
   },
   {
     "url": "index.html",
-    "revision": "74dac1ae897f8aff5cd13ef76e1cbf8a"
+    "revision": "50482373f283fa2341357d122160f500"
   },
   {
     "url": "philosophy/origin/atomism&sophists.html",
-    "revision": "184510cdc696fe7852b2f80de9a4e7d7"
+    "revision": "30cebf4ce6b6070f380ee04758c14708"
   },
   {
     "url": "philosophy/origin/history-of-philosophy.html",
-    "revision": "b66b95c8fc9443b7114acacb834ed48f"
+    "revision": "5036d15986e7543294f2dd2568ad6f80"
   },
   {
     "url": "philosophy/origin/index.html",
-    "revision": "30b72ba8f5ada355a47ce0acdb0ff983"
+    "revision": "ce77e360e3875379bcd7c852eb3c5b9d"
   },
   {
     "url": "philosophy/origin/materialism-and-immaterialism.html",
-    "revision": "a6ff9ce68ceed7cde641690e9e36e7c7"
+    "revision": "7c050122b59c0978a3fac5596b430a29"
   },
   {
     "url": "philosophy/origin/origin-of-philosophy.html",
-    "revision": "192a7f3f15836f1e79b722e139ccaf3d"
+    "revision": "579add17377dd645048172e98d210283"
   },
   {
     "url": "tag/index.html",
-    "revision": "fa3b4e85eb9b85c046556586d5ac06dd"
+    "revision": "ff768cfe0d67bef78c3e502c6a5b0f38"
   },
   {
     "url": "time.jpg",
@@ -155,7 +155,7 @@ self.__precacheManifest = [
   },
   {
     "url": "timeline/index.html",
-    "revision": "d3b5a456e582cc6f202dc4d1080c9382"
+    "revision": "1ccd1a318a81be9969aa3edd5bb0c5a4"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
