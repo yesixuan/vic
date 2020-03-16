@@ -5,12 +5,12 @@ const sidebar = require('../sidebar/')
 const nav = require('../nav')
 module.exports = Object.assign({}, themeReco, {
   head: [
-    ['meta', {
-      name: 'viewport',
-      content: 'width=device-width, initial-scale=1.0,minimum-scale=1.0, maximum-scale=1.0, user-scalable==no'
-    }],
-    ['link', { rel: 'manifest', href: '/manifest.json' }],
-    ['meta', { name: 'theme-color', content: '#3eaf7c' }],
+    ['link', { rel: 'icon', href: '/vic/favicon.ico' }],
+    ['meta', { name: 'viewport', content: 'width=device-width,initial-scale=1,user-scalable=no' }],
+    ['link', { rel: 'manifest', href: '/vic/manifest.json' }],
+    ['meta', { name: 'theme-color', content: '#42b983' }],
+    ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
+    ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }],
   ],
   sidebar,
   // locales,
