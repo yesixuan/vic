@@ -27,7 +27,7 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "3f11cf1822547c02d9dae12128152b46"
+    "revision": "afc6de60b9f1658c7e1e0fe64ae817d0"
   },
   {
     "url": "assets/css/0.styles.f38f898a.css",
@@ -58,8 +58,8 @@ self.__precacheManifest = [
     "revision": "4a3cd69803fa3c97affcbc0b44400fc0"
   },
   {
-    "url": "assets/js/13.2f762b29.js",
-    "revision": "9bb450498565809cb39af1fdfb4be40f"
+    "url": "assets/js/13.9977f297.js",
+    "revision": "25b15d1f857a5c11152ab3093ac471bd"
   },
   {
     "url": "assets/js/14.0c3bdbf6.js",
@@ -114,48 +114,48 @@ self.__precacheManifest = [
     "revision": "3704283182d726ad4c0b7f6323ebcb2a"
   },
   {
-    "url": "assets/js/app.6040b4bf.js",
-    "revision": "c9f30dad33f7df8b88b97a8c6ded7502"
+    "url": "assets/js/app.18d97954.js",
+    "revision": "5668d94d8a607206b9fb90851977dbdc"
   },
   {
     "url": "categories/index.html",
-    "revision": "1cf4ccee84cbd2854171e1d3279b45cc"
+    "revision": "4de92bfdaddf0ceef625a8785c3ef919"
   },
   {
     "url": "demo.html",
-    "revision": "842d2417cf45689a8bf05d6704512136"
+    "revision": "f7214d17f1771dbf58acdaea4ebafc62"
   },
   {
     "url": "index.html",
-    "revision": "5ea98d8807541fa1dd54ee6455f70eef"
+    "revision": "4a1b06a86aadee74a73d0b5c6c2f332e"
   },
   {
     "url": "philosophy/origin/atomism&sophists.html",
-    "revision": "bec615a38803971a3b91ab82e763a7df"
+    "revision": "80c26fb495ed4536751e9ca562ed0d82"
   },
   {
     "url": "philosophy/origin/history-of-philosophy.html",
-    "revision": "0b461e909c05d2807b09b7b7aba8a962"
+    "revision": "1946fe20f5e3c416183cf840647e0068"
   },
   {
     "url": "philosophy/origin/index.html",
-    "revision": "8136534b576121852bcd1727a0ba9548"
+    "revision": "6c68fdc81a4a636a2d50e3aa3a24ca3b"
   },
   {
     "url": "philosophy/origin/materialism-and-immaterialism.html",
-    "revision": "9a749d065db289b47ccbdc581cbefc5b"
+    "revision": "caa1f08203fd72b5157d7de617dc95b3"
   },
   {
     "url": "philosophy/origin/origin-of-philosophy.html",
-    "revision": "21b390284abdc4962a3658137594dafb"
+    "revision": "dffe8fb7ea0eadb46756880a88227cba"
   },
   {
     "url": "philosophy/origin/Socrates.html",
-    "revision": "b6bdc9ed9f167ad037b2f6e688f7ee83"
+    "revision": "8e518c2ee554afc91696c130c466a066"
   },
   {
     "url": "tag/index.html",
-    "revision": "dc6c08e7306612691cbd35460f97f2b0"
+    "revision": "b536b7cd6f471f5da8b255ce4a1d3fac"
   },
   {
     "url": "time.jpg",
@@ -163,7 +163,7 @@ self.__precacheManifest = [
   },
   {
     "url": "timeline/index.html",
-    "revision": "760cc0d8e35a7af340695f7de26de270"
+    "revision": "2b98291a6f1a777b6dd4d94f345501a3"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
