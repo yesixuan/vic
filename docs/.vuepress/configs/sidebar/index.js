@@ -7,4 +7,7 @@ module.exports = {
     'atomism&sophists',
     'Socrates',
   ],
+  '/philosophy/rationalism&empiricism/': [
+    'Plato',
+  ],
 }
