@@ -9,39 +9,39 @@ module.exports = [
       },
       {
         text: '哲学双重系统',
-        link: '/philosophy/rationalism&empiricism/',
+        link: '/philosophy/rationalism&empiricism/Plato',
       },
       {
         text: '努力安顿自我',
-        link: '/philosophy/origin/',
+        link: '/philosophy/xx/',
       },
       {
         text: '协调人神关系',
-        link: '/philosophy/origin/',
+        link: '/philosophy/xx/',
       },
       {
         text: '理性发出光芒',
-        link: '/philosophy/origin/',
+        link: '/philosophy/xx/',
       },
       {
         text: '启蒙必有挣扎',
-        link: '/philosophy/origin/',
+        link: '/philosophy/xx/',
       },
       {
         text: '伦理学的争议',
-        link: '/philosophy/origin/',
+        link: '/philosophy/xx/',
       },
       {
         text: '存在主义思潮',
-        link: '/philosophy/origin/',
+        link: '/philosophy/xx/',
       },
       {
         text: '响应时代挑战',
-        link: '/philosophy/origin/',
+        link: '/philosophy/xx/',
       },
       {
         text: '延续爱智传统',
-        link: '/philosophy/origin/',
+        link: '/philosophy/xx/',
       },
     ]
   },
