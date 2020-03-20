@@ -9,5 +9,6 @@ module.exports = {
   ],
   '/philosophy/rationalism&empiricism/': [
     'Plato',
+    'Aristotle',
   ],
 }
