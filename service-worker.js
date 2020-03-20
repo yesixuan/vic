@@ -78,8 +78,8 @@ self.__precacheManifest = [
     "revision": "7d1201d3416520bec9bcecbd395bbb4f"
   },
   {
-    "url": "assets/js/19.1cca1791.js",
-    "revision": "ee5a4d00f026cecf31b186fe0173ceab"
+    "url": "assets/js/19.b345fb2e.js",
+    "revision": "e745c6e2fb64ea5863229fca4b3bce33"
   },
   {
     "url": "assets/js/20.efac4761.js",
@@ -118,52 +118,52 @@ self.__precacheManifest = [
     "revision": "f5a1573b6960526d6f08b69055ab86c4"
   },
   {
-    "url": "assets/js/app.76469380.js",
-    "revision": "51ffa9adcecf01905b9afb6b24318a9d"
+    "url": "assets/js/app.24ab60f9.js",
+    "revision": "b9b95ba364394747b3b4b513118685e6"
   },
   {
     "url": "categories/index.html",
-    "revision": "f1e5d5e4f1a6606daf5726f0d5c2c2d1"
+    "revision": "09969d1fa504ea65b914550aa4c89fad"
   },
   {
     "url": "demo.html",
-    "revision": "885f1f6c2c6e5436c67fc58f39096ebd"
+    "revision": "1bcb9aa3bef0b5b3194235ad49ed6ed5"
   },
   {
     "url": "index.html",
-    "revision": "d48edeb1157ad42d6bfdec811a68a0d0"
+    "revision": "348802248df2dc02900bbfbc83ec9c1c"
   },
   {
     "url": "philosophy/origin/atomism&sophists.html",
-    "revision": "ddc0c60bd905cfdf8df375cad0b17015"
+    "revision": "3dd6f5a213e6fab7993aafc691805c44"
   },
   {
     "url": "philosophy/origin/history-of-philosophy.html",
-    "revision": "4bfad6211b1eff5ec8baa7ed13416b21"
+    "revision": "0401e51bc2cda5b1d633627af33ae4bc"
   },
   {
     "url": "philosophy/origin/index.html",
-    "revision": "ef2525111355196a84c643a1c1a469a0"
+    "revision": "ffb4bc545791a35b176bf04abf2a99cd"
   },
   {
     "url": "philosophy/origin/materialism-and-immaterialism.html",
-    "revision": "0f99115261004cfd301111d933d352c6"
+    "revision": "ec1b154dbea21142567f1d8219150c90"
   },
   {
     "url": "philosophy/origin/origin-of-philosophy.html",
-    "revision": "e76e5628e74ef0a5b1cbe83fca351d1f"
+    "revision": "ae5707984ba2e4889f82ad7c49e6847a"
   },
   {
     "url": "philosophy/origin/Socrates.html",
-    "revision": "63ccd993b8a39c27cb92ee15b32ecc80"
+    "revision": "58f5b223740edfcc0c9b402a5e4493d4"
   },
   {
     "url": "philosophy/rationalism&empiricism/Plato.html",
-    "revision": "f3adbc6e9c10834aec034062ce808685"
+    "revision": "aa8507c72afc6b0d989db223d41ce24f"
   },
   {
     "url": "tag/index.html",
-    "revision": "d27affd9042ded4c45e8fd149fa770e2"
+    "revision": "016d30a0f77f43a4af4780c9d91f189f"
   },
   {
     "url": "time.jpg",
@@ -171,7 +171,7 @@ self.__precacheManifest = [
   },
   {
     "url": "timeline/index.html",
-    "revision": "60bd3c243642fe08520192074bb6cc93"
+    "revision": "84ed208b75d6575d050a76d15fad2184"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
