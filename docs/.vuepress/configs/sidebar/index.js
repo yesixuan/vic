@@ -8,7 +8,7 @@ module.exports = {
     'Socrates',
   ],
   '/philosophy/rationalism&empiricism/': [
-    'Plato',
+    '',
     'Aristotle',
   ],
 }

@@ -9,7 +9,7 @@ module.exports = [
       },
       {
         text: '哲学双重系统',
-        link: '/philosophy/rationalism&empiricism/Plato',
+        link: '/philosophy/rationalism&empiricism/',
       },
       {
         text: '努力安顿自我',
