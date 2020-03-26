@@ -26,8 +26,8 @@ self.addEventListener('message', (event) => {
  */
 self.__precacheManifest = [
   {
-    "url": "assets/css/0.styles.eba9bd4b.css",
-    "revision": "b27e063b2ac1ea996f7143f7581b2de3"
+    "url": "assets/css/0.styles.b4138879.css",
+    "revision": "8404c188b1f6fd2447066130690aee57"
   },
   {
     "url": "assets/img/create.e25f75be.png",
@@ -38,28 +38,28 @@ self.__precacheManifest = [
     "revision": "7b267d7ce30257a197aeeb29f365065b"
   },
   {
-    "url": "assets/js/1.5d0e70c1.js",
-    "revision": "f116faba9fe60cfa6dd5d279248a624d"
+    "url": "assets/js/1.179e22fc.js",
+    "revision": "7e1a9cf841162081b9490312345e1dec"
   },
   {
-    "url": "assets/js/10.6bb982e5.js",
-    "revision": "dffdf84d59655944db407f78f6d2dbce"
+    "url": "assets/js/10.1654d966.js",
+    "revision": "c0a1dc4fd4b47cb8d826aac808e266c8"
   },
   {
-    "url": "assets/js/11.86cfbfc7.js",
-    "revision": "c30df95a7ea6b9c6c3b93f40862fafd2"
+    "url": "assets/js/11.93445289.js",
+    "revision": "ac663f2f8ac3ce4526021b8418b54c8f"
   },
   {
-    "url": "assets/js/12.1d202543.js",
-    "revision": "fe04e11ef4ea2af65fe42ed4c2636d02"
+    "url": "assets/js/12.1c2395a6.js",
+    "revision": "e398aaa222a484d671a00531be74d169"
   },
   {
-    "url": "assets/js/13.3077d801.js",
-    "revision": "0c9d57d6740173f0aba37fb1ab5c18cb"
+    "url": "assets/js/13.941ab324.js",
+    "revision": "158847cede70b98168ccc13fea435998"
   },
   {
-    "url": "assets/js/14.82ee2d82.js",
-    "revision": "93cf4501a7810ce45c71fec790521c96"
+    "url": "assets/js/14.e571b9f8.js",
+    "revision": "478a0b3728b6f8ebc718dd2a5b110da2"
   },
   {
     "url": "assets/js/15.a73d8eda.js",
@@ -86,28 +86,36 @@ self.__precacheManifest = [
     "revision": "f43cb35ae84197d2bc3d7abd5cca0789"
   },
   {
-    "url": "assets/js/21.cf14ef5b.js",
-    "revision": "df44ac5d2a7952ab5b0137abbbeb74d4"
+    "url": "assets/js/21.0e2311bc.js",
+    "revision": "a9fbce2ffca2044946de619a8cb7b2ff"
   },
   {
-    "url": "assets/js/22.065f3e17.js",
-    "revision": "dc71ea5a6ab4e561cac32f8d6d561c7f"
+    "url": "assets/js/22.7cc9103e.js",
+    "revision": "3102760e5fc2adf970d538a0be5fc325"
   },
   {
-    "url": "assets/js/3.637cd4bb.js",
-    "revision": "d781bd1e6b90dcaf40f08f48f9c44960"
+    "url": "assets/js/23.006ff35f.js",
+    "revision": "1baa944906aa726d29afca29e7d3da19"
   },
   {
-    "url": "assets/js/4.013d262a.js",
-    "revision": "a44e24978ef030dd2914c795d3bd0ca1"
+    "url": "assets/js/24.fdc17b57.js",
+    "revision": "72074cafdcabf5bebd2ecbb5beb811eb"
   },
   {
-    "url": "assets/js/5.a504351b.js",
-    "revision": "ff20d52c8c973f05d0e1c7e44f42022e"
+    "url": "assets/js/3.2bd6378e.js",
+    "revision": "c5a2ccb8fb97748816a9f1f853154937"
   },
   {
-    "url": "assets/js/6.01fca290.js",
-    "revision": "72da8c8ebdcebdbd3ddc23565f12c939"
+    "url": "assets/js/4.f63241c4.js",
+    "revision": "d087ca6b3df5b0a460c5f01c309afbc8"
+  },
+  {
+    "url": "assets/js/5.a2a0ceb8.js",
+    "revision": "4c726911456edc5168945f6058730ebd"
+  },
+  {
+    "url": "assets/js/6.f95672ff.js",
+    "revision": "9cec99c77cb40ea7b103ce4c52f590de"
   },
   {
     "url": "assets/js/7.6cf567c2.js",
@@ -118,60 +126,68 @@ self.__precacheManifest = [
     "revision": "3bb52c36f24ff2265558a0e1400e089c"
   },
   {
-    "url": "assets/js/9.e5beb490.js",
-    "revision": "a49b4b521354e78fc5704146cc681e17"
+    "url": "assets/js/9.b7624c48.js",
+    "revision": "159740ff31cf67af69df828184673773"
   },
   {
-    "url": "assets/js/app.cb46d7c3.js",
-    "revision": "089d750e0e25c5c4aa4f6cef4c69bbc0"
+    "url": "assets/js/app.8a13d27e.js",
+    "revision": "e77c2ca098f5c61b4d22d65b368f35f3"
   },
   {
     "url": "categories/index.html",
-    "revision": "10ab5519d662248502e4dd768a43c1a4"
+    "revision": "555e7cde410105fefd5f501498e7ddfa"
   },
   {
     "url": "demo.html",
-    "revision": "98ddc1c469589ca5fe6dc3ffde5dfa09"
+    "revision": "7b6255f1e43770bc561d3e01f0d1bd0c"
   },
   {
     "url": "index.html",
-    "revision": "0737e2e0228bf7aa9534a981c2406fb3"
+    "revision": "7e6258cd54378f06773c46336d49a0e2"
   },
   {
     "url": "philosophy/origin/atomism&sophists.html",
-    "revision": "312558156a74d7d131991f560abc0a31"
+    "revision": "09ec9d6c196109e09ee022dacf5fe96f"
   },
   {
     "url": "philosophy/origin/history-of-philosophy.html",
-    "revision": "e72c9bc9d7196ad271d48a58deec56a7"
+    "revision": "5828a79f14f4445a1f014155b86d1aad"
   },
   {
     "url": "philosophy/origin/index.html",
-    "revision": "de9f139a6b494946b64b6e74e1717941"
+    "revision": "ed8b6b527d80a0142a4225a97d0b96fa"
   },
   {
     "url": "philosophy/origin/materialism-and-immaterialism.html",
-    "revision": "c6df3441df02b8694649e0fc29088cdd"
+    "revision": "3406b2b6e3e1c4f39348f010cf102081"
   },
   {
     "url": "philosophy/origin/origin-of-philosophy.html",
-    "revision": "7fd3f34910c55457dac9468cb02ce4b0"
+    "revision": "34dbcf0e5f36618f8026d543d51f9782"
   },
   {
     "url": "philosophy/origin/Socrates.html",
-    "revision": "d4c9758a9980c19b1a02eda2f58f8c33"
+    "revision": "48b9f66bb6af7a3fb8d7121fa4acbb58"
   },
   {
     "url": "philosophy/rationalism&empiricism/Aristotle.html",
-    "revision": "997e3e08f72a3f2889c67355078fae8e"
+    "revision": "f897e16fafede0d65a173ab535d7faa7"
   },
   {
     "url": "philosophy/rationalism&empiricism/index.html",
-    "revision": "d57f23d319983bdc63528001f946952c"
+    "revision": "55e305cfa94a44862022a08a88f1e29a"
+  },
+  {
+    "url": "philosophy/self-settle/index.html",
+    "revision": "248bd7943d90badd939295c8b53e05e1"
+  },
+  {
+    "url": "philosophy/self-settle/scepticism.html",
+    "revision": "7b5a7b43749c786d272495e1cfd11269"
   },
   {
     "url": "tag/index.html",
-    "revision": "3b17d750fb504228de6212a0224cd5fa"
+    "revision": "cbde529383146a610172644a43bedee5"
   },
   {
     "url": "time.jpg",
@@ -179,7 +195,7 @@ self.__precacheManifest = [
   },
   {
     "url": "timeline/index.html",
-    "revision": "25868641e3d16c553167f200d126f365"
+    "revision": "8fa1335a83cc8369e9d0c95f8a637859"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
