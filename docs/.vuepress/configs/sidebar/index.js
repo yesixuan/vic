@@ -11,4 +11,8 @@ module.exports = {
     '',
     'Aristotle',
   ],
+  '/philosophy/self-settle/': [
+    '',
+    'scepticism',
+  ],
 }

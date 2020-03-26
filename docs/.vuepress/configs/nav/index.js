@@ -13,7 +13,7 @@ module.exports = [
       },
       {
         text: '努力安顿自我',
-        link: '/philosophy/xx/',
+        link: '/philosophy/self-settle/',
       },
       {
         text: '协调人神关系',
