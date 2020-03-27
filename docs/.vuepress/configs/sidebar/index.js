@@ -14,5 +14,6 @@ module.exports = {
   '/philosophy/self-settle/': [
     '',
     'scepticism',
+    'hedonism',
   ],
 }
