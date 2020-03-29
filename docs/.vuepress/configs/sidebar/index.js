@@ -16,5 +16,6 @@ module.exports = {
     'scepticism',
     'hedonism',
     'stoa',
+    'end-of-Greek',
   ],
 }
