@@ -17,7 +17,7 @@ module.exports = [
       },
       {
         text: '协调人神关系',
-        link: '/philosophy/xx/',
+        link: '/philosophy/man&gad/',
       },
       {
         text: '理性发出光芒',
