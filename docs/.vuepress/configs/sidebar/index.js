@@ -21,5 +21,6 @@ module.exports = {
   '/philosophy/man&gad/': [
     '',
     'patristic-philosophy',
+    'scholasticism',
   ],
 }
