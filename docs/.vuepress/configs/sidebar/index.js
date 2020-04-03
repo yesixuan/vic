@@ -22,5 +22,6 @@ module.exports = {
     '',
     'patristic-philosophy',
     'scholasticism',
+    'philosophy-come-back'
   ],
 }
