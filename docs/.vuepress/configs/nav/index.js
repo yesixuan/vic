@@ -21,7 +21,7 @@ module.exports = [
       },
       {
         text: '理性发出光芒',
-        link: '/philosophy/xx/',
+        link: '/philosophy/reason/',
       },
       {
         text: '启蒙必有挣扎',

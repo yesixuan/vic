@@ -24,4 +24,7 @@ module.exports = {
     'scholasticism',
     'philosophy-come-back'
   ],
+  '/philosophy/reason/': [
+    '',
+  ],
 }
