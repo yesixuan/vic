@@ -42,8 +42,8 @@ self.__precacheManifest = [
     "revision": "6a751d7afa025430a8589524db2b3953"
   },
   {
-    "url": "assets/js/10.1abbd2af.js",
-    "revision": "8420a9479dd41562f10a90fcc90b8ae8"
+    "url": "assets/js/10.fcabcd1f.js",
+    "revision": "fe7460b1ecae8c5cfe6e45628ee4a6ca"
   },
   {
     "url": "assets/js/11.c5c30219.js",
@@ -102,40 +102,44 @@ self.__precacheManifest = [
     "revision": "92c210b731a9f51f02f87b1483cff2ca"
   },
   {
-    "url": "assets/js/25.6e261853.js",
-    "revision": "f0aa48adf4dfa0edd98ae2ec63cd092c"
+    "url": "assets/js/25.c4afa7b5.js",
+    "revision": "525dd033142f7884197f23243cbcaf49"
   },
   {
-    "url": "assets/js/26.a16e2033.js",
-    "revision": "cea87dc8025a6e28b52f6347be6e1412"
+    "url": "assets/js/26.e279f579.js",
+    "revision": "4cee2276d0a0f06ae7be05a4c42bf498"
   },
   {
-    "url": "assets/js/27.9fc08b3c.js",
-    "revision": "9f0ec33a7697865ee44337041b3f77df"
+    "url": "assets/js/27.e5b5c9e6.js",
+    "revision": "f9da48265d40444ffe27f6c90a17b316"
   },
   {
-    "url": "assets/js/28.5ce1ec9c.js",
-    "revision": "a64da02ab5d0b4efb2f85ae72dc839f1"
+    "url": "assets/js/28.3dee2c82.js",
+    "revision": "3646c26e9fe1c9ac02af5f0fe8affc45"
   },
   {
-    "url": "assets/js/29.1f2ea24d.js",
-    "revision": "57cc35470e85de464ccd1f1340f033f2"
+    "url": "assets/js/29.1ac37a27.js",
+    "revision": "b860d6eed8a6803aafa1e2bdf9001fbe"
   },
   {
     "url": "assets/js/3.a60118a2.js",
     "revision": "9781ae3db35e6c4f663b52146bcdf1ba"
   },
   {
-    "url": "assets/js/30.1c6b0fa1.js",
-    "revision": "2a47bae64fd8d5e2e2a0316086d86e0d"
+    "url": "assets/js/30.37b33e6f.js",
+    "revision": "ce09106e0c956b5bed091dc5e67659f7"
   },
   {
-    "url": "assets/js/31.f14da542.js",
-    "revision": "37302423bcf0a7038abc3f489019a6a9"
+    "url": "assets/js/31.2ac67951.js",
+    "revision": "36079e837e1bf725b47fc7e68d7a2683"
   },
   {
-    "url": "assets/js/32.385efd6f.js",
-    "revision": "9ceb4ca534c3cf8a30c55fbbd860d58b"
+    "url": "assets/js/32.cb0d21f3.js",
+    "revision": "c7fe77ec58f2e7f8195ed9bb7016eea2"
+  },
+  {
+    "url": "assets/js/33.8052aec9.js",
+    "revision": "0b944e2909f6fe9c5a550daf58df2b7d"
   },
   {
     "url": "assets/js/4.83606b17.js",
@@ -162,96 +166,100 @@ self.__precacheManifest = [
     "revision": "771a8ac27cc5d7818a1696889ac41e19"
   },
   {
-    "url": "assets/js/app.723fb444.js",
-    "revision": "030eb2fca97e9a88fe0fbf0af3c69f20"
+    "url": "assets/js/app.3b94c821.js",
+    "revision": "e3c89b7766c5d4fe3c5a0e839093d4fb"
   },
   {
     "url": "categories/index.html",
-    "revision": "ed37c82bbbc41732dc92772fb92303cf"
+    "revision": "7a8e48611f30343bf0a39e670c1ce31e"
   },
   {
     "url": "demo.html",
-    "revision": "f90b381f2e94ca51edbfb7fea04fb141"
+    "revision": "222472335738137bb8ba2d12affeccd2"
   },
   {
     "url": "index.html",
-    "revision": "59d7737e5dc1b9f8688d71b70508fd56"
+    "revision": "39f3078505baabdb5cceeb586acea115"
   },
   {
     "url": "philosophy/man&gad/index.html",
-    "revision": "f721e5ddce73269bb09c49ff8f7c1483"
+    "revision": "5d9954b21541ab4608bd1fd478bb8480"
   },
   {
     "url": "philosophy/man&gad/patristic-philosophy.html",
-    "revision": "cdf7d726701101cd0fef804800718c14"
+    "revision": "68bd9ebb86ca87f8b593c04d3461f1ce"
   },
   {
     "url": "philosophy/man&gad/philosophy-come-back.html",
-    "revision": "9c0f6628163ca016868cfaa98398d981"
+    "revision": "23690522e50415731f70fcdcf511a381"
   },
   {
     "url": "philosophy/man&gad/scholasticism.html",
-    "revision": "a6fb50dd0d24b10fcd1955c9fb501421"
+    "revision": "58db19d190eb62a97564acf3ec7d5cfa"
   },
   {
     "url": "philosophy/origin/atomism&sophists.html",
-    "revision": "6944c34598b7eb8e73aa68a3248e5ed6"
+    "revision": "49a3b6cef93ab573a689ee2e05dc4e95"
   },
   {
     "url": "philosophy/origin/history-of-philosophy.html",
-    "revision": "728540bb8335415fb7dfcd645e69888e"
+    "revision": "2e07c5c13074640ee47596cf658a18c1"
   },
   {
     "url": "philosophy/origin/index.html",
-    "revision": "18bd6641d260d2c67809828f6451f2a2"
+    "revision": "f62e3344075b28bb01e7d9f5d434a585"
   },
   {
     "url": "philosophy/origin/materialism-and-immaterialism.html",
-    "revision": "c0feae28c5a0b18483abb6e6a46ce450"
+    "revision": "90e0c002dbfe26956874f4ca5287f1d0"
   },
   {
     "url": "philosophy/origin/origin-of-philosophy.html",
-    "revision": "beda317422669ef9759c4be380d4c155"
+    "revision": "c0860fa151b1aefb795d172bff376776"
   },
   {
     "url": "philosophy/origin/Socrates.html",
-    "revision": "a444540e3b04750b8ffd463b5623df20"
+    "revision": "6fbb734646f98ba56e1b7ac14a2293a6"
   },
   {
     "url": "philosophy/rationalism&empiricism/Aristotle.html",
-    "revision": "890c5ad1757df5e9ade0d7337c4c7bb0"
+    "revision": "6ecb4ca76626f20a009e302e30f00e48"
   },
   {
     "url": "philosophy/rationalism&empiricism/index.html",
-    "revision": "eba6ccd2e5a53001c687c564adb7c4b1"
+    "revision": "4e30e00780b17f04806c0ddae52dcf12"
   },
   {
     "url": "philosophy/reason/index.html",
-    "revision": "8ea754907ac8b032a2bd6b0bff36bc45"
+    "revision": "385fc385329938e38b1bba2c23ac7f44"
+  },
+  {
+    "url": "philosophy/reason/reformation.html",
+    "revision": "eafbb2ebc83a575b7c77473db2e9eed7"
   },
   {
     "url": "philosophy/self-settle/end-of-Greek.html",
-    "revision": "4455f62b19d096c8976553a1e03b8a18"
+    "revision": "3222a6c713210d5bcbe5c23c10d00739"
   },
   {
     "url": "philosophy/self-settle/hedonism.html",
-    "revision": "9699439022ab9fe7c8494e22e8d6e44b"
+    "revision": "7b7f2353052c4c05185c08bebec1d1b2"
   },
   {
     "url": "philosophy/self-settle/index.html",
-    "revision": "4c51fbcede87bee63dcae3282a7daf6d"
+    "revision": "0dcf672eb825c2ad352992ed559c1de0"
   },
   {
     "url": "philosophy/self-settle/scepticism.html",
-    "revision": "601cef7edb600e98cf806c7828a8e1fc"
+    "revision": "f3c279d7709285636e49c2a29748786e"
   },
   {
     "url": "philosophy/self-settle/stoa.html",
-    "revision": "9de316310b144af4b8108c37436eafab"
+    "revision": "d6adad2460496f1ce358778f4abf9276"
   },
   {
     "url": "tag/index.html",
-    "revision": "265741a6774ad8e37e6fb39636b42dfa"
+    "revision": "cca5e8d211b2cf13194df13c6bd34c33"
   },
   {
     "url": "time.jpg",
@@ -259,7 +267,7 @@ self.__precacheManifest = [
   },
   {
     "url": "timeline/index.html",
-    "revision": "227a683bcae012945a5a443012498c71"
+    "revision": "688e83f3f671df6dd2dd96e4c947c0c9"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
