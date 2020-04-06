@@ -26,5 +26,6 @@ module.exports = {
   ],
   '/philosophy/reason/': [
     '',
+    'reformation',
   ],
 }
