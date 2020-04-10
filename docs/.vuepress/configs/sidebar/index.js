@@ -29,5 +29,6 @@ module.exports = {
     'reformation',
     'philo-sophia',
     'Descartes',
+    'Pascal',
   ],
 }
