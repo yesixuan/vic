@@ -27,11 +27,11 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "3cc70c6d3c561d162ca469765f99128b"
+    "revision": "e5a75fb55c1bdeeb9b14f23d4a94ec80"
   },
   {
-    "url": "assets/css/0.styles.7c06cc45.css",
-    "revision": "4b1f1206660c2516caddb5f0ffc907a9"
+    "url": "assets/css/0.styles.8291038c.css",
+    "revision": "ca88bcf441e64b2033f21bd771c3fdab"
   },
   {
     "url": "assets/img/create.e25f75be.png",
@@ -114,8 +114,8 @@ self.__precacheManifest = [
     "revision": "2863369b89c7218b6ad15c6cdaa25322"
   },
   {
-    "url": "assets/js/27.eff08316.js",
-    "revision": "48b2010434827f18f52d7a41e0ca6340"
+    "url": "assets/js/27.ff1717f1.js",
+    "revision": "a33e4afbc1dc82ba92d325703cb89798"
   },
   {
     "url": "assets/js/28.a81d003c.js",
@@ -186,20 +186,32 @@ self.__precacheManifest = [
     "revision": "f24f9a350e312be2b3cb264315f65371"
   },
   {
-    "url": "assets/js/app.e9510876.js",
-    "revision": "dfaeace3e1f6ac2e6924393bdbbced9a"
+    "url": "assets/js/app.9f7dc955.js",
+    "revision": "88aa35720af5e6fdf3ba0d836af472a3"
   },
   {
     "url": "categories/index.html",
-    "revision": "526c6e51667fdd69b4bbc00cd78fda66"
+    "revision": "e43586de720b95efff7e5cb002a71101"
   },
   {
     "url": "demo.html",
-    "revision": "faececb5e6314eb0f0fcb8d38d098029"
+    "revision": "c5ec6481b49f24da0381f0f20c97bb3c"
+  },
+  {
+    "url": "FiraCode-Light.ttf",
+    "revision": "93e8a73358cd628cb143655d2d7f4db5"
+  },
+  {
+    "url": "FiraCode-Regular.ttf",
+    "revision": "94c6421c40b153fd303f8ace482b2322"
+  },
+  {
+    "url": "HYQiH18030F50.ttf",
+    "revision": "1afd7a575b5088cd2b8d6fc005303a9b"
   },
   {
     "url": "index.html",
-    "revision": "d2798d93c46272173d55ad2e72f82d60"
+    "revision": "8109c1aeb73b42290e188ecd9ce9c83f"
   },
   {
     "url": "logo/logo200.png",
@@ -211,103 +223,103 @@ self.__precacheManifest = [
   },
   {
     "url": "philosophy/man&gad/index.html",
-    "revision": "fd83eb3abdee257d694727e598df6635"
+    "revision": "827cfb3c355170f17fd2a1beada22235"
   },
   {
     "url": "philosophy/man&gad/patristic-philosophy.html",
-    "revision": "d72ae71fd1429eff8f594384f6f87e55"
+    "revision": "2fd7de6836e859d2bd5cc740e410eba9"
   },
   {
     "url": "philosophy/man&gad/philosophy-come-back.html",
-    "revision": "3143bd4bec9b39966d3bc7ade6835c13"
+    "revision": "9bdb187a859ee9093b364fb747f8de84"
   },
   {
     "url": "philosophy/man&gad/scholasticism.html",
-    "revision": "e74f7b5e9ff4870cfa269f896126c2eb"
+    "revision": "7e7c79fba03561ed2b9a930b863dd24a"
   },
   {
     "url": "philosophy/origin/atomism&sophists.html",
-    "revision": "0b4ef790e345cd5195351580274e3737"
+    "revision": "0391d450371be596087678cfc907c9d6"
   },
   {
     "url": "philosophy/origin/history-of-philosophy.html",
-    "revision": "9ad1ba0906a8bca442a0565a89b1d67a"
+    "revision": "bb1b46252ac4a5f55ad4b8dd304c290f"
   },
   {
     "url": "philosophy/origin/index.html",
-    "revision": "26eafa2e8b9aa41cec411be32086d294"
+    "revision": "5b75e7add3b533bd090be365c9bae196"
   },
   {
     "url": "philosophy/origin/materialism-and-immaterialism.html",
-    "revision": "71036adfe7bc2366482f3fc887397be1"
+    "revision": "3044f78eb74f275ef2aa39f43565efc7"
   },
   {
     "url": "philosophy/origin/origin-of-philosophy.html",
-    "revision": "30e9cc297564ab315689254fdd850c4a"
+    "revision": "765beb293dd93152ccc7124df48119a4"
   },
   {
     "url": "philosophy/origin/Socrates.html",
-    "revision": "5552ba48be8661e2366a4fe30d7a1db1"
+    "revision": "d26ba0a4fd30739d44f613140a10d1c4"
   },
   {
     "url": "philosophy/rationalism&empiricism/Aristotle.html",
-    "revision": "79db1d8966741f89bb7732e3ad5c59c5"
+    "revision": "fa2be044612d11d3f6bd0bc50e5629f3"
   },
   {
     "url": "philosophy/rationalism&empiricism/index.html",
-    "revision": "6c81bc235f342b08b32a88ef3354c9c5"
+    "revision": "6213b08afea67b93485de34262a9d563"
   },
   {
     "url": "philosophy/reason/Descartes.html",
-    "revision": "05ecc1067a616fa0bd3d30ef4d18778a"
+    "revision": "49dfc1c028a90a4afb846e786a926c3b"
   },
   {
     "url": "philosophy/reason/index.html",
-    "revision": "5aac8d185847106e2b179f936d553df6"
+    "revision": "0a06ba58a7b32eddf5e83d04ffeafcd6"
   },
   {
     "url": "philosophy/reason/Pascal.html",
-    "revision": "50c7713834ea890bed6192013babf2cf"
+    "revision": "942c5c9fdd6be4a2fdc7f0ec2816085a"
   },
   {
     "url": "philosophy/reason/philo-sophia.html",
-    "revision": "c1ae1a0e1cd9d5cfd984d5212b55b162"
+    "revision": "c88abf68f354e036539d92ef10e348b5"
   },
   {
     "url": "philosophy/reason/reformation.html",
-    "revision": "f3682182965d41cf5b4c9ddee760f700"
+    "revision": "b9070ea853cebd99b0d8bd5495a09fb8"
   },
   {
     "url": "philosophy/reason/Spinoza.html",
-    "revision": "a359227a3aacb4ecc31e571d7e71467b"
+    "revision": "f0d5b1f5aee6a3fe5552fbe0c234ec0d"
   },
   {
     "url": "philosophy/self-settle/end-of-Greek.html",
-    "revision": "621b894958d4ee8d1c144b1964a6e7b3"
+    "revision": "a2e339dbb0c19a9d6b45bdc9e5a94823"
   },
   {
     "url": "philosophy/self-settle/hedonism.html",
-    "revision": "18695d4af48b4ac0938e0d5e6a65fe87"
+    "revision": "9a79ade339b52f8ac194528b2df4acee"
   },
   {
     "url": "philosophy/self-settle/index.html",
-    "revision": "590ae4bc23b47548951ffaac2f769db2"
+    "revision": "ed142dfec0525ad45fb8eda18c09fa75"
   },
   {
     "url": "philosophy/self-settle/scepticism.html",
-    "revision": "36af651f636c8e21f250efb33044f35a"
+    "revision": "15f0fcd836ebd4497f2dee74e1c1a51a"
   },
   {
     "url": "philosophy/self-settle/stoa.html",
-    "revision": "e42d895ad7a0ee92aeebd376195df681"
+    "revision": "d82c7b4ade08055f4832f01cb9215e4d"
   },
   {
     "url": "tag/index.html",
-    "revision": "8ecf912a680768b19f963a4fc535e201"
+    "revision": "38df3f4576efa48a14bc6885d0abab8a"
   },
   {
     "url": "timeline/index.html",
-    "revision": "88bc24d39496e986f236a3523f7d3ed3"
+    "revision": "cd5e0e16f3ffbf9cc34057ca058bba9a"
   },
   {
     "url": "xuan200.png",
