@@ -55,7 +55,7 @@
 这是一个危险警告
 :::
 
-::: 点击展开详情
+::: details 点击展开详情
 ```js
 console.log('Hello, VuePress!')
 ```

@@ -30,5 +30,6 @@ module.exports = {
     'philo-sophia',
     'Descartes',
     'Pascal',
+    'Spinoza',
   ],
 }
