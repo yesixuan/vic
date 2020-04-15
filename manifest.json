@@ -3,17 +3,17 @@
   "short_name": "vic",
   "icons": [
     {
-      "src": "/code/logo/logo200.png",
+      "src": "/vic/logo/logo200.png",
       "sizes": "200x200",
       "type": "image/png"
     },
     {
-      "src": "/code/logo/logo500.png",
+      "src": "/vic/logo/logo500.png",
       "sizes": "500x500",
       "type": "image/png"
     }
   ],
-  "start_url": "/code/index.html",
+  "start_url": "/vic/index.html",
   "display": "standalone",
   "background_color": "#fff",
   "theme_color": "#1e1e1e"
