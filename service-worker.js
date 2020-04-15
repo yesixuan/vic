@@ -27,7 +27,7 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "e5a75fb55c1bdeeb9b14f23d4a94ec80"
+    "revision": "384ae392b8c27f5c77e4a2a02d41b161"
   },
   {
     "url": "assets/css/0.styles.8291038c.css",
@@ -114,8 +114,8 @@ self.__precacheManifest = [
     "revision": "2863369b89c7218b6ad15c6cdaa25322"
   },
   {
-    "url": "assets/js/27.ff1717f1.js",
-    "revision": "a33e4afbc1dc82ba92d325703cb89798"
+    "url": "assets/js/27.0441e60c.js",
+    "revision": "6863a13fc97b3774c02689c125d7325a"
   },
   {
     "url": "assets/js/28.a81d003c.js",
@@ -186,16 +186,16 @@ self.__precacheManifest = [
     "revision": "f24f9a350e312be2b3cb264315f65371"
   },
   {
-    "url": "assets/js/app.9f7dc955.js",
-    "revision": "88aa35720af5e6fdf3ba0d836af472a3"
+    "url": "assets/js/app.af08b3af.js",
+    "revision": "962c98ee9d3b8b566f0be413c454983b"
   },
   {
     "url": "categories/index.html",
-    "revision": "e43586de720b95efff7e5cb002a71101"
+    "revision": "75f7a4c282922491bd6ac0712c422311"
   },
   {
     "url": "demo.html",
-    "revision": "c5ec6481b49f24da0381f0f20c97bb3c"
+    "revision": "ce43e66ac4d23c13af5f8c10d200ca76"
   },
   {
     "url": "FiraCode-Light.ttf",
@@ -211,7 +211,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "8109c1aeb73b42290e188ecd9ce9c83f"
+    "revision": "87cfcb8c4de49e08209182e09825fe30"
   },
   {
     "url": "logo/logo200.png",
@@ -223,103 +223,103 @@ self.__precacheManifest = [
   },
   {
     "url": "philosophy/man&gad/index.html",
-    "revision": "827cfb3c355170f17fd2a1beada22235"
+    "revision": "666f3b11f8614d1af9584470fc079436"
   },
   {
     "url": "philosophy/man&gad/patristic-philosophy.html",
-    "revision": "2fd7de6836e859d2bd5cc740e410eba9"
+    "revision": "9316c51c3b098cba48b1131e3f2e5b65"
   },
   {
     "url": "philosophy/man&gad/philosophy-come-back.html",
-    "revision": "9bdb187a859ee9093b364fb747f8de84"
+    "revision": "6b84ca5ea0282ad22b969ceebdde2949"
   },
   {
     "url": "philosophy/man&gad/scholasticism.html",
-    "revision": "7e7c79fba03561ed2b9a930b863dd24a"
+    "revision": "6a412359f2d774e5c049e0656cfd7293"
   },
   {
     "url": "philosophy/origin/atomism&sophists.html",
-    "revision": "0391d450371be596087678cfc907c9d6"
+    "revision": "8ae37f4a1a3ef6bafb473038ad8f97d1"
   },
   {
     "url": "philosophy/origin/history-of-philosophy.html",
-    "revision": "bb1b46252ac4a5f55ad4b8dd304c290f"
+    "revision": "6e3f8d66caf4a4ba2a9d32c851b640d8"
   },
   {
     "url": "philosophy/origin/index.html",
-    "revision": "5b75e7add3b533bd090be365c9bae196"
+    "revision": "e181994c3c9dee8bf0fc02000ab8eea9"
   },
   {
     "url": "philosophy/origin/materialism-and-immaterialism.html",
-    "revision": "3044f78eb74f275ef2aa39f43565efc7"
+    "revision": "e4cfb2f696689dfe565ec6075ae89acd"
   },
   {
     "url": "philosophy/origin/origin-of-philosophy.html",
-    "revision": "765beb293dd93152ccc7124df48119a4"
+    "revision": "c1d4336c69733347c48768c42381b20e"
   },
   {
     "url": "philosophy/origin/Socrates.html",
-    "revision": "d26ba0a4fd30739d44f613140a10d1c4"
+    "revision": "6314694291060f2b5725b7c7c30e2a88"
   },
   {
     "url": "philosophy/rationalism&empiricism/Aristotle.html",
-    "revision": "fa2be044612d11d3f6bd0bc50e5629f3"
+    "revision": "47c433586a81f1042fba0940ee7ae926"
   },
   {
     "url": "philosophy/rationalism&empiricism/index.html",
-    "revision": "6213b08afea67b93485de34262a9d563"
+    "revision": "85e51074f53dec15fc43fcfed81112c5"
   },
   {
     "url": "philosophy/reason/Descartes.html",
-    "revision": "49dfc1c028a90a4afb846e786a926c3b"
+    "revision": "160ed37ee3730c3367116e30f6a7abe4"
   },
   {
     "url": "philosophy/reason/index.html",
-    "revision": "0a06ba58a7b32eddf5e83d04ffeafcd6"
+    "revision": "cebe7547e987a20ddd23c564b4c7f3d4"
   },
   {
     "url": "philosophy/reason/Pascal.html",
-    "revision": "942c5c9fdd6be4a2fdc7f0ec2816085a"
+    "revision": "a4439568edd8355dd51989974d4f3ef6"
   },
   {
     "url": "philosophy/reason/philo-sophia.html",
-    "revision": "c88abf68f354e036539d92ef10e348b5"
+    "revision": "40cb50625c8366a5dfa1767e27c3aaae"
   },
   {
     "url": "philosophy/reason/reformation.html",
-    "revision": "b9070ea853cebd99b0d8bd5495a09fb8"
+    "revision": "27ad7620b81e29a53fc8863fe8955c2e"
   },
   {
     "url": "philosophy/reason/Spinoza.html",
-    "revision": "f0d5b1f5aee6a3fe5552fbe0c234ec0d"
+    "revision": "fe4bdccdbce2bb277701a0df9f9dc597"
   },
   {
     "url": "philosophy/self-settle/end-of-Greek.html",
-    "revision": "a2e339dbb0c19a9d6b45bdc9e5a94823"
+    "revision": "42c150d9c01dcecda8f1d32ed79f8692"
   },
   {
     "url": "philosophy/self-settle/hedonism.html",
-    "revision": "9a79ade339b52f8ac194528b2df4acee"
+    "revision": "4a307a3815a1f5e53955fcfbde74f1fe"
   },
   {
     "url": "philosophy/self-settle/index.html",
-    "revision": "ed142dfec0525ad45fb8eda18c09fa75"
+    "revision": "123f026253b423d86462db0070d34b9b"
   },
   {
     "url": "philosophy/self-settle/scepticism.html",
-    "revision": "15f0fcd836ebd4497f2dee74e1c1a51a"
+    "revision": "53912d58a344f5466314d1d9c01bbce4"
   },
   {
     "url": "philosophy/self-settle/stoa.html",
-    "revision": "d82c7b4ade08055f4832f01cb9215e4d"
+    "revision": "6a790ef823a3a419a64b33e003bd6d47"
   },
   {
     "url": "tag/index.html",
-    "revision": "38df3f4576efa48a14bc6885d0abab8a"
+    "revision": "783f3e3f00d8bf3e5784d240f84fb565"
   },
   {
     "url": "timeline/index.html",
-    "revision": "cd5e0e16f3ffbf9cc34057ca058bba9a"
+    "revision": "de736747a14088fa3d37e5e1b3703646"
   },
   {
     "url": "xuan200.png",
