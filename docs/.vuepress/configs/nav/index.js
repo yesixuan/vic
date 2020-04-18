@@ -25,7 +25,7 @@ module.exports = [
       },
       {
         text: '启蒙必有挣扎',
-        link: '/philosophy/xx/',
+        link: '/philosophy/enlightenment/',
       },
       {
         text: '伦理学的争议',
