@@ -27,11 +27,11 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "2eeeb82cdaa95ab6f60de3025c5bf749"
+    "revision": "23c537da7e544be165161d12e4c1feb1"
   },
   {
-    "url": "assets/css/0.styles.b406834e.css",
-    "revision": "e8f515ce2d7065a489ce8a13d45266b7"
+    "url": "assets/css/0.styles.17e2a850.css",
+    "revision": "2987fa0be4e1231a78ad2e146778f0c3"
   },
   {
     "url": "assets/img/create.e25f75be.png",
@@ -46,8 +46,8 @@ self.__precacheManifest = [
     "revision": "ea072eea7e8979ea068df6bf3557d1b3"
   },
   {
-    "url": "assets/js/10.9d61bdba.js",
-    "revision": "67852cd37c7032aa9da060cd941bd208"
+    "url": "assets/js/10.b855061c.js",
+    "revision": "78d0420c75de19c305802e015253e93a"
   },
   {
     "url": "assets/js/11.8ce87827.js",
@@ -58,124 +58,128 @@ self.__precacheManifest = [
     "revision": "f8c5d3da7285e88f391988852d14e5c0"
   },
   {
-    "url": "assets/js/13.5db71d02.js",
-    "revision": "70a110751a1ba0ae409929c93661559f"
+    "url": "assets/js/13.4caa9dae.js",
+    "revision": "c80e1a387e4641312de95da1bd4d16b1"
   },
   {
-    "url": "assets/js/14.7f844528.js",
-    "revision": "1c9c89958d61302a169162192e610504"
+    "url": "assets/js/14.12214cc5.js",
+    "revision": "992cdbb97b09ec4631b4a02be7f910fe"
   },
   {
-    "url": "assets/js/15.1799f75a.js",
-    "revision": "67bfb307fddd752ec950b0acfdf88c2b"
+    "url": "assets/js/15.c3aec860.js",
+    "revision": "2c68de36499c7bab61b4872645546d5d"
   },
   {
-    "url": "assets/js/16.634c072b.js",
-    "revision": "f19d2e2393dd77bcb569ecc141982e74"
+    "url": "assets/js/16.2c82afc4.js",
+    "revision": "f54abb64932b77e70759f6970fe9af50"
   },
   {
-    "url": "assets/js/17.b4dcf27c.js",
-    "revision": "607c67d52592198b69566a7e2dd45306"
+    "url": "assets/js/17.b1134a1a.js",
+    "revision": "f253b6ae1c0c28442ae3c34e0e1be9a9"
   },
   {
-    "url": "assets/js/18.51231924.js",
-    "revision": "53abe3e8fa23e6fbc38bd35d321d2eca"
+    "url": "assets/js/18.4cd61846.js",
+    "revision": "5518121337fd6bc7169235a8d7c20973"
   },
   {
-    "url": "assets/js/19.324f3fff.js",
-    "revision": "c2dbef652b5fa3d608df2bcf226c147c"
+    "url": "assets/js/19.dd3ad58c.js",
+    "revision": "ce98b78cce23f9485824acb2ab4282e3"
   },
   {
-    "url": "assets/js/20.c5969607.js",
-    "revision": "092d8d1ca9e798a77fa5096536366272"
+    "url": "assets/js/20.af720d96.js",
+    "revision": "be5273ed9d18a8ea6124dccea8a69d48"
   },
   {
-    "url": "assets/js/21.f1dbe754.js",
-    "revision": "2e7da587bcb21d7d3452879eb57efb93"
+    "url": "assets/js/21.c93f99ff.js",
+    "revision": "21ee472ec53d16cddea4ae3e60cd7d09"
   },
   {
-    "url": "assets/js/22.99d56ccb.js",
-    "revision": "a434501b1137f7ce550c4a8445d2a414"
+    "url": "assets/js/22.c14a483b.js",
+    "revision": "ed9984453e2bd67b74b5aa33a75fea04"
   },
   {
-    "url": "assets/js/23.50b68119.js",
-    "revision": "898e5853e808bf992546b67da7a4adac"
+    "url": "assets/js/23.f88ef5ae.js",
+    "revision": "fc40e57fe64e17fd7e550cd7951affa1"
   },
   {
-    "url": "assets/js/24.a7b961a5.js",
-    "revision": "8449e274c3bedc5dddfc5b9857f3da25"
+    "url": "assets/js/24.c023b91c.js",
+    "revision": "a051c82eb26e46acdf9f719c9c3c8ee0"
   },
   {
-    "url": "assets/js/25.e1e57be2.js",
-    "revision": "11d7feb5ff5b9a44a08ed463c02dd5df"
+    "url": "assets/js/25.8357d47b.js",
+    "revision": "c8f8c4f4eb7f3e345d6e6f4f26aaac5c"
   },
   {
-    "url": "assets/js/26.b1e8fcff.js",
-    "revision": "3c1ab3b544d49a9244f6a164e4e310ce"
+    "url": "assets/js/26.22401e0c.js",
+    "revision": "7c97b2234f720dd81aeab763414829d3"
   },
   {
-    "url": "assets/js/27.22fb4484.js",
-    "revision": "6b5f79d1b2b8c5f63139f38537b35a2b"
+    "url": "assets/js/27.9c02bc7f.js",
+    "revision": "963fd6ba388fd17ea70b9bf20ae44243"
   },
   {
-    "url": "assets/js/28.dda228e3.js",
-    "revision": "689421bf8178d1d88c3cb6ab26755649"
+    "url": "assets/js/28.bd4b7921.js",
+    "revision": "a4b70656d5ee43eeff3eb5d2bdea905e"
   },
   {
-    "url": "assets/js/29.4f5754d6.js",
-    "revision": "5d8fb5a3eb1b98e85106ded79d708f31"
+    "url": "assets/js/29.b6c2969c.js",
+    "revision": "8fcdfea5feb8f826faff862e2ea57fac"
   },
   {
-    "url": "assets/js/3.38757f37.js",
-    "revision": "15321c1b62abb954c2b71a2a69037914"
+    "url": "assets/js/3.dc6bd04e.js",
+    "revision": "f97b61bdd6d21ad28ea30d7b67db2361"
   },
   {
-    "url": "assets/js/30.db978cbc.js",
-    "revision": "17c9d54f8af90274a2f3cf955c9ad24c"
+    "url": "assets/js/30.c2427413.js",
+    "revision": "0de8a0b76fd09822fa8eba75be46ecc9"
   },
   {
-    "url": "assets/js/31.3cf03d54.js",
-    "revision": "5e3c5fe5bd6bd35b087a81e540c86bf8"
+    "url": "assets/js/31.998637cd.js",
+    "revision": "7a33fc8625b58d2d772ceac92c785acb"
   },
   {
-    "url": "assets/js/32.7858c2f6.js",
-    "revision": "acadbf7329c8583c28ae6b1bb7d69cbb"
+    "url": "assets/js/32.519c727b.js",
+    "revision": "4f114938b62fcedfe1aeaa5c43b18f38"
   },
   {
-    "url": "assets/js/33.dea5d6a2.js",
-    "revision": "69ba4c7ed9fe1bc604920704f5a1c17d"
+    "url": "assets/js/33.6223f55b.js",
+    "revision": "04d85c53290d0893046d0c08d243f5de"
   },
   {
-    "url": "assets/js/34.e80bae6c.js",
-    "revision": "0347e0fabc85309b16b3b668614913b6"
+    "url": "assets/js/34.6afa28dd.js",
+    "revision": "dbce6f017091a808d7f2e9e63a963104"
   },
   {
-    "url": "assets/js/35.9a28a168.js",
-    "revision": "c3491ed792d6eb269a17e8908773ac68"
+    "url": "assets/js/35.be542512.js",
+    "revision": "caecfd9879808f5c67e6dc58f88fa528"
   },
   {
-    "url": "assets/js/36.cebc6374.js",
-    "revision": "d96d2223d690750a424a3783960c78ae"
+    "url": "assets/js/36.2e256b3b.js",
+    "revision": "7518c03e6d74bd6ebf42c6423bb7b023"
   },
   {
-    "url": "assets/js/37.618c5703.js",
-    "revision": "d98a9570e7b7e065b7ddc4247119692b"
+    "url": "assets/js/37.52062aea.js",
+    "revision": "b8f41d162823a06be89392dc2c3579d6"
   },
   {
-    "url": "assets/js/38.b16ef64c.js",
-    "revision": "84993c6aadcf6804e9b669517c70575f"
+    "url": "assets/js/38.72db858b.js",
+    "revision": "8b55e1ca42659cb569e9364193ef17c5"
   },
   {
-    "url": "assets/js/39.fc35c6a5.js",
-    "revision": "8be6c23958cf6b75f508442bc73fe654"
+    "url": "assets/js/39.de8f9470.js",
+    "revision": "010d5608ef710010ae5a6de5af981ede"
   },
   {
     "url": "assets/js/4.5bb36fa4.js",
     "revision": "b1b7e56740f5fc2c1360655842a75db8"
   },
   {
-    "url": "assets/js/40.ec077887.js",
-    "revision": "6a5800c6c98a23725c66aa2f34bfd4c1"
+    "url": "assets/js/40.49f3515b.js",
+    "revision": "4daa34e96d5bde47b8232dd6113c1da9"
+  },
+  {
+    "url": "assets/js/41.b70cf7d9.js",
+    "revision": "eb55cc147ae533a3e01f949b520c9e46"
   },
   {
     "url": "assets/js/5.edf4a22d.js",
@@ -198,16 +202,16 @@ self.__precacheManifest = [
     "revision": "42b93f3cee0e5a0cd72b19f09671c190"
   },
   {
-    "url": "assets/js/app.842b2def.js",
-    "revision": "b0114e10d80bbe66009e2d0bb045e095"
+    "url": "assets/js/app.c35d6820.js",
+    "revision": "064ee31619b8c76a6d5253eeaccc053f"
   },
   {
     "url": "categories/index.html",
-    "revision": "9a116013dfb4441b59f492392f37eda0"
+    "revision": "5c6b4ba03a1c6643882c89ed92a85061"
   },
   {
     "url": "demo.html",
-    "revision": "a32f4816935261d7ef5440d4a7436dd3"
+    "revision": "0e2cc3f649f85424e9719da75d5bce72"
   },
   {
     "url": "FiraCode-Light.ttf",
@@ -223,7 +227,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "5245dada9322430a68cda35405eb10ab"
+    "revision": "632effcc990088e3fc38d4e0947e32d5"
   },
   {
     "url": "logo/logo200.png",
@@ -234,116 +238,120 @@ self.__precacheManifest = [
     "revision": "8d1c3a2d6acd1ad3bc704027fd3606e6"
   },
   {
+    "url": "philosophy/enlightenment/Berkeley.html",
+    "revision": "b06299b5b849f8b33a0f1283c9c2b143"
+  },
+  {
     "url": "philosophy/enlightenment/index.html",
-    "revision": "84ff4d6b51a34766e00b6695406d3389"
+    "revision": "c0fe951e853dc7798dee6a8341056926"
   },
   {
     "url": "philosophy/enlightenment/Locke.html",
-    "revision": "98c92e9f75357d3ba0929ae27920ee66"
+    "revision": "cffc6b0f663714680c9739043f45ac8d"
   },
   {
     "url": "philosophy/man&gad/index.html",
-    "revision": "b54b2abb57e7deef6a3634becd64d0d9"
+    "revision": "a0c8e9ddab8c8b547c4d50a15d2b4577"
   },
   {
     "url": "philosophy/man&gad/patristic-philosophy.html",
-    "revision": "ee0233ca1c7f6260857a6c3099658092"
+    "revision": "9fd8765a8f1ad0211e534ca9a72d3c1f"
   },
   {
     "url": "philosophy/man&gad/philosophy-come-back.html",
-    "revision": "3bd3ef88f8f869723492588ee1f14782"
+    "revision": "57d93f0c0542ba143cdca9ec998ceb7c"
   },
   {
     "url": "philosophy/man&gad/scholasticism.html",
-    "revision": "1efd76ee4be11214439d8c74210e73d1"
+    "revision": "e4b905617dfbc7d5f96e066495dd4b35"
   },
   {
     "url": "philosophy/origin/atomism&sophists.html",
-    "revision": "c65bec1356cbc2bb4dec07a0ba82009e"
+    "revision": "5d0dd8372de52772cdb4ee1fc3364f1a"
   },
   {
     "url": "philosophy/origin/history-of-philosophy.html",
-    "revision": "ad710d8c9536fdcd8d033aaac8d14d06"
+    "revision": "94772672787553e6bfd060eac0c62863"
   },
   {
     "url": "philosophy/origin/index.html",
-    "revision": "bba1f06cf72d73a0a44ac6e9943df3fb"
+    "revision": "9df4b036e64d2396fd5a1ca16bc33018"
   },
   {
     "url": "philosophy/origin/materialism-and-immaterialism.html",
-    "revision": "104fe12903106fcb1a6305d969d1072a"
+    "revision": "08d3560b49320afb8982e305847a4b26"
   },
   {
     "url": "philosophy/origin/origin-of-philosophy.html",
-    "revision": "f9954ff339a67c73d8c578fce16587fa"
+    "revision": "4b9bee0453c43d3e9c5c84ae37a1524b"
   },
   {
     "url": "philosophy/origin/Socrates.html",
-    "revision": "47e13aa04efb2dbf6d62112f7626dd1e"
+    "revision": "6847e8865869409e2ea068b5cb57c1ad"
   },
   {
     "url": "philosophy/rationalism&empiricism/Aristotle.html",
-    "revision": "4976f101a7a142ed79c754aa509e5622"
+    "revision": "c4dfc1a3eed0968067fefe8927b2736e"
   },
   {
     "url": "philosophy/rationalism&empiricism/index.html",
-    "revision": "26c7cac4eb086cda133cd950a9462d2e"
+    "revision": "e5e926c603316064654076771d773c99"
   },
   {
     "url": "philosophy/reason/Descartes.html",
-    "revision": "37984eda3a6093141faa64659bc905fa"
+    "revision": "1eae482507744ce77fed2629e350baa4"
   },
   {
     "url": "philosophy/reason/index.html",
-    "revision": "2de3f08aaad4f91d9cd35be5133e48db"
+    "revision": "b98e8e012c0dc7e3fc0b63c47963cee3"
   },
   {
     "url": "philosophy/reason/Leibnitz.html",
-    "revision": "032d7fad7fb8e76bbe973a77209fc23e"
+    "revision": "d08ca0ec292adedc641c8fc63f3771f1"
   },
   {
     "url": "philosophy/reason/Pascal.html",
-    "revision": "c8eaa1dd7680e4a71c4357986125be59"
+    "revision": "da65e325ba8dfe8d767aaaf626eae686"
   },
   {
     "url": "philosophy/reason/philo-sophia.html",
-    "revision": "c83b3573781e6c49ae1c91f952ee5e90"
+    "revision": "4f5074d8ba31f42f180f5165b5b305db"
   },
   {
     "url": "philosophy/reason/reformation.html",
-    "revision": "0bc7c406bda3a8cac1ffa340893865fe"
+    "revision": "9bc5252ef63d318a62fcd4115138cb2b"
   },
   {
     "url": "philosophy/reason/Spinoza.html",
-    "revision": "4c5f9ef7deb714af409914dccec8b10f"
+    "revision": "29531648366273c9999605db7a899acd"
   },
   {
     "url": "philosophy/self-settle/end-of-Greek.html",
-    "revision": "5caefa7d5bfdd0449c3698c9f57e8899"
+    "revision": "51bfe8dc1e80cbb799616df2130a9b7d"
   },
   {
     "url": "philosophy/self-settle/hedonism.html",
-    "revision": "a5f1c88e042dc9336927ef4335272902"
+    "revision": "fb820193efbd50430cf0fa6cac1cd7a9"
   },
   {
     "url": "philosophy/self-settle/index.html",
-    "revision": "752908c7b0664dab6f0e9bc76ee4651d"
+    "revision": "e672ebaa6f42c6f5f86f4d88b96662fa"
   },
   {
     "url": "philosophy/self-settle/scepticism.html",
-    "revision": "0b3eae610926f2b5262bd8d79349976d"
+    "revision": "2480d0a38348b486358037c68ae9c105"
   },
   {
     "url": "philosophy/self-settle/stoa.html",
-    "revision": "ca4d1e7ec79ea28018ecd598d322153f"
+    "revision": "2161e22dce71043d5189a466336a3372"
   },
   {
     "url": "tag/index.html",
-    "revision": "0efe77973713642b8e2381aedb7e424d"
+    "revision": "d94047e2c0b0a41d6128def3e5cbdf45"
   },
   {
     "url": "timeline/index.html",
-    "revision": "7cf19bced4d75aced7aec6adc49af5db"
+    "revision": "e39fdaaf3960a8154011781994f1cb9a"
   },
   {
     "url": "xuan200.png",
