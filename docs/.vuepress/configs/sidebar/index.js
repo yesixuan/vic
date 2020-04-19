@@ -35,5 +35,6 @@ module.exports = {
   ],
   '/philosophy/enlightenment/': [
     '',
+    'Berkeley',
   ]
 }
