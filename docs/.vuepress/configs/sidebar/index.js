@@ -37,5 +37,6 @@ module.exports = {
     '',
     'Berkeley',
     'Hume',
+    'Rousseau',
   ]
 }
