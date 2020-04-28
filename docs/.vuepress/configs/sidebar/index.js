@@ -39,6 +39,7 @@ module.exports = {
     'Hume',
     'Rousseau',
     'enlightenment',
-    'Kant'
+    'Kant',
+    'GermanIdealism',
   ]
 }
