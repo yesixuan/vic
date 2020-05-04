@@ -42,5 +42,6 @@ module.exports = {
     'Kant',
     'GermanIdealism',
     'pessimism',
+    'Marx',
   ]
 }
