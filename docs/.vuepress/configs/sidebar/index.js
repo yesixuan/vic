@@ -43,5 +43,9 @@ module.exports = {
     'GermanIdealism',
     'pessimism',
     'Marx',
-  ]
+    'value',
+  ],
+  '/philosophy/ethics': [
+    '',
+  ],
 }

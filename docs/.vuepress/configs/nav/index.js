@@ -29,7 +29,7 @@ module.exports = [
       },
       {
         text: '伦理学的争议',
-        link: '/philosophy/xx/',
+        link: '/philosophy/ethics/',
       },
       {
         text: '存在主义思潮',
