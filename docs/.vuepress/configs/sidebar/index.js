@@ -47,5 +47,9 @@ module.exports = {
   ],
   '/philosophy/ethics': [
     '',
+    'simpleEthics',
+  ],
+  '/philosophy/existentialism': [
+    '',
   ],
 }

@@ -33,7 +33,7 @@ module.exports = [
       },
       {
         text: '存在主义思潮',
-        link: '/philosophy/xx/',
+        link: '/philosophy/existentialism/',
       },
       {
         text: '响应时代挑战',
