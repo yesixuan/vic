@@ -51,5 +51,6 @@ module.exports = {
   ],
   '/philosophy/existentialism': [
     '',
+    'existentialism',
   ],
 }
