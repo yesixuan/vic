@@ -35,14 +35,14 @@ module.exports = [
         text: '存在主义思潮',
         link: '/philosophy/existentialism/',
       },
-      {
-        text: '响应时代挑战',
-        link: '/philosophy/xx/',
-      },
-      {
-        text: '延续爱智传统',
-        link: '/philosophy/xx/',
-      },
+      // {
+      //   text: '响应时代挑战',
+      //   link: '/philosophy/xx/',
+      // },
+      // {
+      //   text: '延续爱智传统',
+      //   link: '/philosophy/xx/',
+      // },
     ]
   },
 ]

@@ -45,11 +45,11 @@ module.exports = {
     'Marx',
     'value',
   ],
-  '/philosophy/ethics': [
+  '/philosophy/ethics/': [
     '',
     'simpleEthics',
   ],
-  '/philosophy/existentialism': [
+  '/philosophy/existentialism/': [
     '',
     'existentialism',
     'Kierkegaard',
