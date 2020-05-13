@@ -53,5 +53,6 @@ module.exports = {
     '',
     'existentialism',
     'Kierkegaard',
+    'Nietzsche',
   ],
 }
