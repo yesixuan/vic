@@ -1,6 +1,6 @@
 ---
 title: 享乐主义
-lang: zh-cn
+lang: zh-CN
 ---
 
 ## 享乐主义的来源

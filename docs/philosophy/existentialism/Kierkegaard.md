@@ -1,6 +1,6 @@
 ---
 title: 克尔凯郭尔
-lang: zh-cn
+lang: zh-CN
 ---
 
 ## 生活背景

@@ -1,6 +1,6 @@
 ---
 title: 贝克莱
-lang: zh-cn
+lang: zh-CN
 ---
 
 > 英国经验主义发展经过三个阶段：

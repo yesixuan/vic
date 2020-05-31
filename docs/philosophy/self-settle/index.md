@@ -1,6 +1,6 @@
 ---
 title: 犬儒学派
-lang: zh-cn
+lang: zh-CN
 ---
 
 ## 犬儒学派的来源

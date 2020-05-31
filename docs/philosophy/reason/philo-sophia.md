@@ -1,6 +1,6 @@
 ---
 title: 爱智之乐
-lang: zh-cn
+lang: zh-CN
 ---
 
 ## 蒙田

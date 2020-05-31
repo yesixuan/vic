@@ -1,6 +1,6 @@
 ---
 title: 悲观主义
-lang: zh-cn
+lang: zh-CN
 ---
 
 ## 叔本华

@@ -1,6 +1,6 @@
 ---
 title: 尼采
-lang: zh-cn
+lang: zh-CN
 ---
 
 ## “疯人”的成长经历

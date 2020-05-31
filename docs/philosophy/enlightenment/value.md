@@ -1,6 +1,6 @@
 ---
 title: 价值观探讨
-lang: zh-cn
+lang: zh-CN
 ---
 
 ## 两套形而上学

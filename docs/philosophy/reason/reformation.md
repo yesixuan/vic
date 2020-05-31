@@ -1,6 +1,6 @@
 ---
 title: 宗教改革
-lang: zh-cn
+lang: zh-CN
 ---
 
 ## 宗教法庭

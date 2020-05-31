@@ -7,7 +7,8 @@ module.exports = {
   // 自动形成侧边导航
   sidebar: 'auto',
   // 侧边栏深度
-  sidebarDepth: 1,
+  sidebarDepth: 2,
+  displayAllHeaders: true, // 自动提取锚点链接
   // 最后更新时间
   lastUpdated: false, // string | boolean
   // 作者
@@ -35,7 +36,7 @@ module.exports = {
   // 假定是 GitHub. 同时也可以是一个完整的 GitLab URL
   repo: 'https://www.github.com/yesixuan/vic',
   // // 假如文档不是放在仓库的根目录下：
-  docsDir: 'gh-pages',
+  docsDir: 'docs',
   // // 假如文档放在一个特定的分支下：
   docsBranch: 'master',
   // // 默认是 false, 设置为 true 来启用

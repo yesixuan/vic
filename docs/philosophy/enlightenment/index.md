@@ -1,6 +1,6 @@
 ---
 title: 霍布斯
-lang: zh-cn
+lang: zh-CN
 ---
 
 > 接下来我们聊聊英国经验主义(Empiricism)，代表人物有：霍布斯、洛克与贝克莱。

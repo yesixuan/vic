@@ -1,6 +1,6 @@
 ---
 title: 原子论与辩士学派
-lang: zh-cn
+lang: zh-CN
 ---
 
 ## 阿纳克萨格拉斯

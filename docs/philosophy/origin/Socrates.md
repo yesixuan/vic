@@ -1,6 +1,6 @@
 ---
 title: 苏格拉底
-lang: zh-cn
+lang: zh-CN
 ---
 
 ## 德尔斐神谕

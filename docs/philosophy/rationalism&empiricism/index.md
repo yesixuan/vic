@@ -1,6 +1,6 @@
 ---
 title: 柏拉图
-lang: zh-cn
+lang: zh-CN
 ---
 
 ::: tip

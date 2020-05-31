@@ -1,6 +1,6 @@
 ---
 title: 希腊哲学不完美的句点
-lang: zh-cn
+lang: zh-CN
 ---
 
 ## 当犹太教遇上希腊哲学

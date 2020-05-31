@@ -4,15 +4,14 @@ const sidebar = require('../sidebar/')
 // const locales = require('../locales/')
 const nav = require('../nav')
 module.exports = Object.assign({}, themeReco, {
-  head: [
-    ['meta', {
-      name: 'viewport',
-      content: 'width=device-width, initial-scale=1.0,minimum-scale=1.0, maximum-scale=1.0, user-scalable==no'
-    }],
-    ['link', { rel: 'manifest', href: '/manifest.json' }],
-    ['meta', { name: 'theme-color', content: '#3eaf7c' }],
-  ],
   sidebar,
   // locales,
   nav,
+  themeColor: {
+    blue: "#2196f3",
+    red: "#f26d6d",
+    green: "#3eaf7c",
+    orange: "#fb9b5f",
+  },
+  pwa: '发现新内容可用',
 })

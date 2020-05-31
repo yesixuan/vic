@@ -1,6 +1,6 @@
 ---
 title: 笛卡尔
-lang: zh-cn
+lang: zh-CN
 ---
 
 ## 笛卡尔简介

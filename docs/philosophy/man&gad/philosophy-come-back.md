@@ -1,6 +1,6 @@
 ---
 title: 哲学的回归
-lang: zh-cn
+lang: zh-CN
 ---
 
 ## 司各特谈论善

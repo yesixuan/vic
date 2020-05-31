@@ -1,6 +1,6 @@
 ---
 title: 亚里士多德
-lang: zh-cn
+lang: zh-CN
 ---
 
 ## 吾爱吾师，吾尤爱真理

@@ -2,3 +2,4 @@ node_modules
 yarn.lock
 dist
 docs/.vuepress/dist
+.DS_Store

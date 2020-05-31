@@ -1,13 +1,13 @@
 ---
 title: 唯物论与唯心论
-lang: zh-cn
+lang: zh-CN
 ---
 
 ## 毕达哥拉斯
 
 ::: tip
 万物的起源是数字
-:::right
+::: right
 ——毕达哥拉斯
 :::
 

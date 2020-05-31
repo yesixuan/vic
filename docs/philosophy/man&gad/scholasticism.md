@@ -1,6 +1,6 @@
 ---
 title: 经院哲学
-lang: zh-cn
+lang: zh-CN
 ---
 
 ## 波伊提乌

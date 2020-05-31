@@ -1,6 +1,6 @@
 ---
 title: 西方哲学的简单回顾
-lang: zh-cn
+lang: zh-CN
 ---
 
 ## 回顾西方哲学

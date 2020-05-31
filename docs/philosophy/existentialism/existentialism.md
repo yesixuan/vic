@@ -1,6 +1,6 @@
 ---
 title: 存在主义
-lang: zh-cn
+lang: zh-CN
 ---
 
 ## 存在主义的由来

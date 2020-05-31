@@ -1,6 +1,7 @@
+const resolve = require('vuepress-theme-hope/resolve')
 const themeConfig = require('./configs/theme/')
 
-module.exports = {
+module.exports = resolve({
   base: '/vic/',
   // dest: '/dist',
   title: 'vic 空间',
@@ -8,7 +9,7 @@ module.exports = {
   markdown: {
     lineNumbers: true // 展示行号
   },
-  theme: 'reco',
+  // theme: 'reco',
   themeConfig,
   head: [
     [
@@ -42,30 +43,24 @@ module.exports = {
     }
   },
   plugins: [
-    ['@vuepress/active-header-links', {
-      sidebarLinkSelector: '.sidebar-link',
-      headerAnchorSelector: '.header-anchor'
-    }],
-    ['@vuepress/medium-zoom', {
-      selector: 'img',
-      options: {
-        margin: 16
-      }
-    }],
-    ['@vuepress/nprogress'],
-    ['@vuepress/pwa', {
-      serviceWorker: true,
-      updatePopup: {
-        message: "发现新内容可用",
-        buttonText: "刷新"
-      }
-    }],
-    ['vuepress-plugin-container', {
-      type: 'right',
-      defaultTitle: '',
-    },],
     ['container', {
-      type: 'myDetails',
+      type: 'tip',
+      defaultTitle: ''
+    }],
+    ['container', {
+      type: 'warning',
+      defaultTitle: ''
+    }],
+    ['container', {
+      type: 'danger',
+      defaultTitle: ''
+    }],
+    ['container', {
+      type: 'right',
+      defaultTitle: ''
+    }],
+    ['container', {
+      type: 'details',
       before: info => `<details class="custom-block details">${info ? `<summary>${info}</summary>` : ''}\n`,
       after: () => '</details>\n',
       defaultTitle: {
@@ -74,4 +69,4 @@ module.exports = {
       }
     }]
   ],
-};
+});

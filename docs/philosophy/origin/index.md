@@ -1,6 +1,6 @@
 ---
 title: 为什么是哲学
-lang: zh-cn
+lang: zh-CN
 ---
 
 ## 对哲学最精简最深刻的解释

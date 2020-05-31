@@ -1,6 +1,6 @@
 ---
 title: 休谟
-lang: zh-cn
+lang: zh-CN
 ---
 
 ## 休谟平生

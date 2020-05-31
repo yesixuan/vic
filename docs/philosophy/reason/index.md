@@ -1,6 +1,6 @@
 ---
 title: 文艺复兴
-lang: zh-cn
+lang: zh-CN
 ---
 
 ## 文艺复兴的起因

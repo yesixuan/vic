@@ -1,6 +1,6 @@
 ---
 title: 伦理学的争议
-lang: zh-cn
+lang: zh-CN
 ---
 
 ## 亚当.斯密《道德情操论》
